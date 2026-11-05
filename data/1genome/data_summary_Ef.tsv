@@ -1,0 +1,922 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Enterococcus faecium DO		strain: DO	333849	ASM17439v2	GCA_000174395.2	GenBank	Annotation submitted by Baylor College of Medicine	Complete Genome	2698137	3052572	2012-05-25	3209	PRJNA30627	SAMN00002237
+Enterococcus faecium Aus0004		strain: Aus0004	1155766	ASM25094v2	GCA_000250945.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2952485	3027337	2025-05-16	3028	PRJNA86649	SAMN02604218
+Enterococcus faecium ATCC 8459 = NRRL B-2354		strain: NRRL B-2354	1158600	ASM33640v1	GCA_000336405.1	GenBank	Annotation submitted by University of California, Davis	Complete Genome	2635572	2849891	2013-02-04	2772	PRJNA74725	SAMN02604149
+Enterococcus faecium Aus0085		strain: AUS0085	1305849	ASM44440v1	GCA_000444405.1	GenBank	Annotation submitted by University Of Melbourne	Complete Genome	2994661	3239275	2013-08-06	3317	PRJNA193299	SAMN02604219
+Enterococcus faecium T110		strain: T110	1344042	ASM73755v1	GCA_000737555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2693877	2737963	2014-08-04	2681	PRJNA207757	SAMN02194078
+Enterococcus faecium		strain: 64/3	1352	ASM129848v1	GCA_001298485.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2572333	2572333	2015-09-24	2506	PRJNA293793	SAMN04009964
+Enterococcus faecium		strain: UW7606x64/3 TC1	1352	ASM141269v1	GCA_001412695.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2686859	2753355	2015-10-26	2689	PRJNA299371	SAMN04201208
+Enterococcus faecium		strain: 6E6	1352	ASM151873v1	GCA_001518735.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2966909	3397853	2016-01-20	3404	PRJNA308959	SAMN04418075
+Enterococcus faecium		strain: UW8175	1352	ASM158711v1	GCA_001587115.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2598959	2878192	2016-03-11	2817	PRJNA275194	SAMN03339922
+Enterococcus faecium		strain: ATCC 700221	1352	ASM159434v1	GCA_001594345.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2859123	3151405	2016-03-21	3145	PRJNA311738	SAMN04488250
+Enterococcus faecium		strain: E39	1352	ASM163587v1	GCA_001635875.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2790106	3108034	2016-05-02	3042	PRJNA281247	SAMN03486724
+Enterococcus faecium		strain: ISMMS_VRE_1	1352	ASM172094v1	GCA_001720945.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3130373	3259287	2016-09-07	3245	PRJNA292786	SAMN03988632
+Enterococcus faecium		strain: ISMMS_VRE_7	1352	ASM172106v1	GCA_001721065.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2850245	3221354	2016-09-07	3198	PRJNA292801	SAMN03988624
+Enterococcus faecium		strain: ISMMS_VRE_11	1352	ASM172190v1	GCA_001721905.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2823158	3140297	2016-09-08	3090	PRJNA292807	SAMN03988630
+Enterococcus faecium		strain: E745	1352	ASM175088v1	GCA_001750885.1	GenBank	Annotation submitted by UMC Utrecht	Complete Genome	2765010	3168410	2016-10-03	3246	PRJNA295268	SAMN04045274
+Enterococcus faecium		strain: E1	1352	ASM188663v1	GCA_001886635.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2933268	3208737	2016-11-28	3156	PRJNA353757	SAMN06019998
+Enterococcus faecium		strain: VRE001	1352	ASM189590v1	GCA_001895905.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2933966	3242672	2016-12-09	3196	PRJNA353653	SAMN06018903
+Enterococcus faecium		strain: ISMMS_VRE_12	1352	ASM195323v1	GCA_001953235.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2807999	3130591	2017-01-17	3368	PRJNA292809	SAMN03988631
+Enterococcus faecium		strain: ISMMS_VRE_9	1352	ASM195325v1	GCA_001953255.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2802604	3126703	2017-01-17	3366	PRJNA292804	SAMN03988627
+Enterococcus faecium		strain: 2014-VREF-41	1352	ASM200762v1	GCA_002007625.1	GenBank	Annotation submitted by Asia Pacific Foundation for Infectious Diseases (APFID)	Complete Genome	3009007	3280732	2017-02-28	3262	PRJNA358851	SAMN06186500
+Enterococcus faecium		isolate: 2014-VREF-114	1352	ASM202424v1	GCA_002024245.1	GenBank		Complete Genome	2804968	3255197	2017-03-09		PRJNA358851	SAMN06463381
+Enterococcus faecium		isolate: 2014-VREF-268	1352	ASM202504v1	GCA_002025045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2990310	3392168	2017-03-13	3526	PRJNA358851	SAMN06472830
+Enterococcus faecium		isolate: 2014-VREF-63	1352	ASM202506v1	GCA_002025065.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2907074	3238466	2017-03-13	3335	PRJNA358851	SAMN06472829
+Enterococcus faecium		strain: K60-39	1352	ASM233462v1	GCA_002334625.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2739582	3071612	2017-09-21	3164	PRJNA407052	SAMN07638053
+Enterococcus faecium		strain: A_020709_82	1352	ASM244295v1	GCA_002442955.1	GenBank		Complete Genome	2740566	3061821	2017-10-04		PRJNA344739	SAMN06006823
+Enterococcus faecium		strain: E240	1352	ASM276125v1	GCA_002761255.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2868375	3139391	2017-11-07	3093	PRJNA349966	SAMN05933399
+Enterococcus faecium		strain: E243	1352	ASM276127v1	GCA_002761275.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2868375	3141075	2017-11-07	3093	PRJNA349966	SAMN05933400
+Enterococcus faecium		strain: 16-346	1352	ASM276155v1	GCA_002761555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2736595	2736595	2017-11-07	2824	PRJNA389415	SAMN07198401
+Enterococcus faecium		strain: E232	1352	ASM277727v1	GCA_002777275.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2868496	3139512	2017-11-16	3097	PRJNA349966	SAMN05933398
+Enterococcus faecium		strain: LS170308	1352	ASM283150v1	GCA_002831505.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2630073	2686446	2017-12-10	2754	PRJNA419997	SAMN08102921
+Enterococcus faecium		strain: SC4	1352	ASM284838v1	GCA_002848385.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2772425	3168533	2017-12-28	3314	PRJNA422315	SAMN08174306
+Enterococcus faecium		isolate: isolate, strain: Efaecium_ER03933.3A	1352	ASM284862v1	GCA_002848625.1	GenBank	Annotation submitted by Icahn School of Medicine at Mount Sinai	Complete Genome	2863296	3078193	2017-12-28	3047	PRJNA407447	SAMN07679728
+Enterococcus faecium		strain: Efaecium_ER04120.3A	1352	ASM284864v1	GCA_002848645.1	GenBank	Annotation submitted by Icahn School of Medicine at Mount Sinai	Complete Genome	2869275	3125083	2017-12-28	3098	PRJNA407447	SAMN07679729
+Enterococcus faecium		strain: Efaecium_ER04484.3A	1352	ASM284866v1	GCA_002848665.1	GenBank	Annotation submitted by Icahn School of Medicine at Mount Sinai	Complete Genome	2869064	3127550	2017-12-28	3100	PRJNA407447	SAMN07679731
+Enterococcus faecium		strain: Efaecium_ER04462.3A	1352	ASM284868v1	GCA_002848685.1	GenBank	Annotation submitted by Icahn School of Medicine at Mount Sinai	Complete Genome	2867770	3122770	2017-12-28	3097	PRJNA407447	SAMN07679730
+Enterococcus faecium		isolate: isolate, strain: Efaecium_ER04619.3A	1352	ASM284870v1	GCA_002848705.1	GenBank	Annotation submitted by Icahn School of Medicine at Mount Sinai	Complete Genome	2870397	3086625	2017-12-28	3056	PRJNA407447	SAMN07679734
+Enterococcus faecium		strain: Efaecium_ER04526.5A	1352	ASM284872v1	GCA_002848725.1	GenBank	Annotation submitted by Icahn School of Medicine at Mount Sinai	Complete Genome	2867667	3126139	2017-12-28	3100	PRJNA407447	SAMN07679733
+Enterococcus faecium		strain: Efaecium_ER04526.3A	1352	ASM284874v1	GCA_002848745.1	GenBank	Annotation submitted by Icahn School of Medicine at Mount Sinai	Complete Genome	2870954	3170042	2017-12-28	3157	PRJNA407447	SAMN07679732
+Enterococcus faecium		strain: WEFA23	1352	ASM285051v1	GCA_002850515.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2496099	2496099	2018-01-03	2556	PRJNA389942	SAMN07211315
+Enterococcus faecium		strain: AALTL	1352	ASM288063v1	GCA_002880635.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2817746	3111715	2018-01-16	3336	PRJNA363045	SAMN06252387
+Enterococcus faecium		strain: 15-307-1	1352	ASM297375v2	GCA_002973755.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2856007	3304455	2020-08-27	3375	PRJNA419534	SAMN08093650
+Enterococcus faecium		strain: FDAARGOS_323	1352	ASM298378v1	GCA_002983785.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2550968	2710422	2018-03-09	2772	PRJNA231221	SAMN06173336
+Enterococcus faecium		strain: AUSMDU00004167	1352	ASM302068v1	GCA_003020685.1	GenBank		Complete Genome	2883877	3200573	2018-03-27		PRJNA433676	SAMN08628413
+Enterococcus faecium		strain: AUSMDU00004055	1352	ASM302070v1	GCA_003020705.1	GenBank		Complete Genome	2731844	3177207	2018-03-27		PRJNA433676	SAMN08628411
+Enterococcus faecium		strain: AUSMDU00004028	1352	ASM302072v1	GCA_003020725.1	GenBank		Complete Genome	2855729	3185609	2018-03-27		PRJNA433676	SAMN08628410
+Enterococcus faecium		strain: AUSMDU00004024	1352	ASM302074v1	GCA_003020745.1	GenBank		Complete Genome	2863087	3170680	2018-03-27		PRJNA433676	SAMN08628409
+Enterococcus faecium		strain: AUSMDU00004142	1352	ASM302076v1	GCA_003020765.1	GenBank		Complete Genome	2912017	3202267	2018-03-27		PRJNA433676	SAMN08628412
+Enterococcus faecium		strain: CFSAN059070	1352	ASM307142v1	GCA_003071425.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2880780	3149315	2018-04-25	3274	PRJNA243331	SAMN06621458
+Enterococcus faecium		strain: CFSAN059071	1352	ASM307144v1	GCA_003071445.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2883830	3152365	2018-04-25	3277	PRJNA243331	SAMN06621457
+Enterococcus faecium		strain: BM4105-RF	1352	ASM326946v1	GCA_003269465.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2683778	2683778	2018-06-28	2687	PRJNA477272	SAMN09464428
+Enterococcus faecium		strain: KresVSE0002	1352	KRESVSE0002	GCA_003408975.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2667118	3017427	2025-04-15	2964	PRJNA486083	SAMN09836114
+Enterococcus faecium		strain: KRESVRE0005	1352	KresVRE0005	GCA_003408995.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2666987	3022771	2025-03-05	2980	PRJNA486083	SAMN09836112
+Enterococcus faecium		strain: HY07	1352	ASM357492v1	GCA_003574925.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2585631	2865999	2018-09-19	2927	PRJNA416245	SAMN07945858
+Enterococcus faecium		strain: JE1	1352	ASM366796v1	GCA_003667965.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2724445	2803306	2018-10-21	2829	PRJNA496260	SAMN10237539
+Enterococcus faecium		strain: Gr17	1352	ASM371160v1	GCA_003711605.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2588149	2637792	2018-11-05	2726	PRJNA497659	SAMN10264165
+Enterococcus faecium		strain: RBWH1	1352	ASM395778v1	GCA_003957785.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2876110	3158418	2018-12-21	3245	PRJNA497960	SAMN10273305
+Enterococcus faecium		strain: CBA7134	1352	ASM401514v1	GCA_004015145.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2629393	2837042	2019-01-14	2904	PRJNA428410	SAMN08289536
+Enterococcus faecium		strain: SRCM103341	1352	ASM410138v1	GCA_004101385.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2581021	2796641	2019-01-22	2882	PRJNA515111	SAMN10742281
+Enterococcus faecium		strain: SRCM103470	1352	ASM410347v1	GCA_004103475.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2696269	2939796	2019-01-23	3039	PRJNA515332	SAMN10754017
+Enterococcus faecium		strain: FSIS1608820	1352	ASM433205v1	GCA_004332055.1	GenBank		Complete Genome	2586979	2615201	2019-03-07		PRJNA292669	SAMN08689723
+Enterococcus faecium		strain: NM213	1352	ASM516636v1	GCA_005166365.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2594563	2857122	2019-05-06	2982	PRJNA513159	SAMN10697318
+Enterococcus faecium		strain: VB3025	1352	ASM551731v1	GCA_005517315.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2855454	3209271	2019-05-20	3312	PRJNA534441	SAMN11490474
+Enterococcus faecium		strain: VB3240	1352	ASM557673v1	GCA_005576735.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2805984	3072272	2019-05-22	3167	PRJNA542561	SAMN11633508
+Enterococcus faecium		strain: UAMSEF_01	1352	ASM588654v1	GCA_005886545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2824869	3132860	2019-05-29	3255	PRJNA518133	SAMN10863479
+Enterococcus faecium		strain: UAMSEF_08	1352	ASM588665v1	GCA_005886655.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2827987	3135868	2019-05-29	3260	PRJNA518133	SAMN10863491
+Enterococcus faecium		strain: UAMSEF_09	1352	ASM588671v1	GCA_005886715.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2912202	3302085	2019-05-29	3478	PRJNA518133	SAMN10863492
+Enterococcus faecium		strain: UAMSEF_20	1352	ASM588673v1	GCA_005886735.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2912170	3301988	2019-05-29	3478	PRJNA518133	SAMN10863493
+Enterococcus faecium		strain: HOU503	1352	ASM595288v1	GCA_005952885.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2702943	3002553	2019-06-04	3117	PRJNA544687	SAMN11848047
+Enterococcus faecium		strain: VRE1	1352	ASM600792v1	GCA_006007925.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2718395	3098023	2019-06-05	3220	PRJNA545358	SAMN11890391
+Enterococcus faecium		strain: F17E0263	1352	ASM628035v1	GCA_006280355.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2659111	2930394	2019-06-12	3051	PRJNA292665	SAMN11942429
+Enterococcus faecium		strain: DB-1	1352	ASM633704v1	GCA_006337045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2660995	2845522	2019-06-13	2929	PRJNA546098	SAMN11952093
+Enterococcus faecium		strain: HB-1	1352	ASM633714v1	GCA_006337145.1	GenBank		Complete Genome	2618436	2772853	2019-06-13		PRJNA546487	SAMN11960005
+Enterococcus faecium		strain: FB-1	1352	ASM635178v1	GCA_006351785.1	GenBank		Complete Genome	2648833	2782065	2019-06-16		PRJNA547677	SAMN11974796
+Enterococcus faecium		strain: N56454	1352	ASM635184v1	GCA_006351845.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2495617	2694097	2019-06-16	2761	PRJNA292665	SAMN11942428
+Enterococcus faecium		strain: 515	1352	ASM657562v1	GCA_006575625.1	GenBank		Complete Genome	2766162	3115663	2019-07-04		PRJNA551139	SAMN12141647
+Enterococcus faecium		strain: QU 50	1352	ASM674135v1	GCA_006741355.1	GenBank	Annotation submitted by NODAI Genome Research Center, Tokyo University of Agriculture	Complete Genome	2535796	2749658	2019-03-28	2710	PRJDB4468	SAMD00112300
+Enterococcus faecium		strain: VVEswe-R	1352	ASM791703v3	GCA_007917035.3	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2851579	3263915	2020-05-07	3240	PRJNA551094	SAMN12138936
+Enterococcus faecium		strain: VVEswe-S	1352	ASM791731v3	GCA_007917315.3	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2851771	3255647	2020-10-05	3224	PRJNA551094	SAMN12138986
+Enterococcus faecium		strain: SCBC1	1352	ASM792366v2	GCA_007923665.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2560245	2601327	2023-05-23	2649	PRJNA528399	SAMN11180836
+Enterococcus faecium		strain: YN2-1	1352	ASM792378v2	GCA_007923785.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2515672	2557066	2023-05-23	2624	PRJNA528410	SAMN11189932
+Enterococcus faecium		strain: SC3-1	1352	ASM792386v2	GCA_007923865.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2478931	2515733	2023-05-23	2567	PRJNA528386	SAMN11180789
+Enterococcus faecium		strain: SDGJP3	1352	ASM792388v2	GCA_007923885.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2459230	2510891	2023-05-23	2618	PRJNA528402	SAMN11189591
+Enterococcus faecium		strain: HN11	1352	ASM792390v2	GCA_007923905.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2423317	2493074	2022-11-14	2557	PRJNA528385	SAMN11180788
+Enterococcus faecium		strain: HB2-2	1352	ASM792392v2	GCA_007923925.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2542049	2574218	2022-11-14	2641	PRJNA528383	SAMN11180780
+Enterococcus faecium		strain: GZ8	1352	ASM792394v2	GCA_007923945.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2639821	2676732	2023-05-23	2746	PRJNA528381	SAMN11180681
+Enterococcus faecium		strain: SDGJQ5	1352	ASM792396v2	GCA_007923965.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2672619	2703076	2023-05-23	2795	PRJNA528406	SAMN11189927
+Enterococcus faecium		strain: FA3	1352	ASM800085v1	GCA_008000855.1	GenBank		Complete Genome	2601809	2869619	2019-08-18		PRJNA559234	SAMN12530214
+Enterococcus faecium		strain: DMEA02	1352	ASM833060v1	GCA_008330605.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2573925	2742551	2019-09-09	2720	PRJNA562786	SAMN12650248
+Enterococcus faecium		strain: V1836	1352	ASM872845v1	GCA_008728455.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2884831	3274751	2019-09-30	3338	PRJNA573568	SAMN12818007
+Enterococcus faecium		strain: V2937	1352	ASM872847v1	GCA_008728475.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2896393	3170487	2019-09-30	3217	PRJNA573568	SAMN12818041
+Enterococcus faecium		strain: LAC7.2	1352	ASM903604v1	GCA_009036045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2625745	2912936	2019-10-16	2859	PRJNA573875	SAMN12828129
+Enterococcus faecium		strain: VRE	1352	ASM969728v1	GCA_009697285.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3029645	3347130	2019-11-23	3339	PRJNA589567	SAMN13283502
+Enterococcus faecium		strain: SRR24	1352	ASM973400v2	GCA_009734005.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2796178	2919198	2020-02-05	3028	PRJNA520784	SAMN10867607
+Enterococcus faecium		strain: ZY11	1352	ASM993807v1	GCA_009938075.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2736390	2736390	2020-01-28	2797	PRJNA520784	SAMN11269520
+Enterococcus faecium		strain: KUHS13	1352	ASM993828v1	GCA_009938285.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2802719	3170227	2020-01-22	3252	PRJDB9240	SAMD00202474
+Enterococcus faecium		strain: ZY2	1352	ASM1012075v1	GCA_010120755.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2736723	2834297	2020-02-03	2898	PRJNA520784	SAMN10867605
+Enterococcus faecium		strain: DT1-1	1352	ASM1174564v1	GCA_011745645.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2684010	2684010	2020-03-25	2590	PRJNA563811	SAMN12688234
+Enterococcus faecium		strain: BIOPOP-3 ALE	1352	ASM1204536v1	GCA_012045365.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2633058	2774080	2020-04-06	2719	PRJNA615057	SAMN14446140
+Enterococcus faecium		strain: BIOPOP-3 WT	1352	ASM1204550v1	GCA_012045505.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2633054	2774076	2020-04-06	2719	PRJNA615057	SAMN14446138
+Enterococcus faecium		strain: BA17124	1352	ASM1293297v2	GCA_012932975.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2717697	2929042	2020-08-10	2884	PRJNA627548	SAMN14675398
+Enterococcus faecium		strain: BP5067	1352	ASM1293298v2	GCA_012932985.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2715925	2918877	2020-08-10	2870	PRJNA627548	SAMN14675394
+Enterococcus faecium		strain: BP3378	1352	ASM1293305v2	GCA_012933055.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2792149	3206679	2020-08-10	3171	PRJNA627548	SAMN14675393
+Enterococcus faecium		strain: BP657	1352	ASM1293307v2	GCA_012933075.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2826067	3127609	2020-08-10	3058	PRJNA627548	SAMN14675395
+Enterococcus faecium		strain: A7214	1352	ASM1293316v2	GCA_012933165.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2808798	3109264	2020-08-09	3047	PRJNA627548	SAMN14675388
+Enterococcus faecium		strain: A6521	1352	ASM1293319v2	GCA_012933195.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2869878	3248079	2020-09-30	3179	PRJNA627548	SAMN14675386
+Enterococcus faecium		strain: A4694	1352	ASM1293324v2	GCA_012933245.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2731067	3073847	2020-08-09	2986	PRJNA627548	SAMN14675385
+Enterococcus faecium		strain: A3895	1352	ASM1293326v2	GCA_012933265.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2788375	3106441	2020-08-09	3034	PRJNA627548	SAMN14675384
+Enterococcus faecium		strain: A11051	1352	ASM1293328v2	GCA_012933285.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2705156	3087377	2020-08-10	3071	PRJNA627548	SAMN14675381
+Enterococcus faecium		strain: A15023	1352	ASM1293329v2	GCA_012933295.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2800014	3085240	2020-08-10	3029	PRJNA627548	SAMN14675383
+Enterococcus faecium		strain: A10290	1352	ASM1293334v2	GCA_012933345.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2783793	3208766	2020-08-10	3175	PRJNA627548	SAMN14675380
+Enterococcus faecium		strain: FS 86	1352	ASM1320105v1	GCA_013201055.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2685395	2685395	2020-05-31	2594	PRJNA633747	SAMN14969421
+Enterococcus faecium		strain: Ent-0189	1352	ASM1331992v2	GCA_013319925.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2599561	2673134	2025-11-15	2589	PRJNA604849	SAMN14000286
+Enterococcus faecium		strain: AML0157	1352	ASM1449001v1	GCA_014490015.1	GenBank		Complete Genome	2906760	3317988	2020-09-07		PRJNA648658	SAMN15643623
+Enterococcus faecium		strain: VB3338	1352	ASM1487461v1	GCA_014874615.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2792149	3206679	2020-10-10	3171	PRJNA666302	SAMN16287686
+Enterococcus faecium		strain: VRE3370	1352	ASM1532592v1	GCA_015325925.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2880300	3207332	2020-11-10	3178	PRJNA646837	SAMN15566652
+Enterococcus faecium		strain: Cairo	1352	ASM1535609v1	GCA_015356095.1	GenBank		Complete Genome	2877937	3156539	2020-11-12		PRJNA672694	SAMN16574827
+Enterococcus faecium		strain: TK-P5D	1352	ASM1537776v1	GCA_015377765.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2724200	2802870	2020-11-12	2766	PRJNA579198	SAMN13106282
+Enterococcus faecium		strain: VRE3363	1352	ASM1547629v1	GCA_015476295.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2796800	3150876	2020-11-15	3080	PRJNA646837	SAMN15566645
+Enterococcus faecium		strain: KCCM 12118	1352	ASM1576769v1	GCA_015767695.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2529606	2529606	2020-12-06	2434	PRJNA680824	SAMN16925096
+Enterococcus faecium		strain: VRE32650	1352	ASM1599402v2	GCA_015994025.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2864481	3126797	2025-10-05	3097	PRJNA475751	SAMN09401261
+Enterococcus faecium		strain: VRE32570	1352	ASM1599540v2	GCA_015995405.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2895910	3184181	2025-10-05	3181	PRJNA475751	SAMN09401183
+Enterococcus faecium		strain: VRE3389	1352	ASM1599940v1	GCA_015999405.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2840234	3187807	2020-12-13	3172	PRJNA646837	SAMN15566671
+Enterococcus faecium		strain: VRE3382	1352	ASM1599942v1	GCA_015999425.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2871783	3123204	2020-12-13	3066	PRJNA646837	SAMN15566664
+Enterococcus faecium		strain: Dallas 1	1352	ASM1599960v1	GCA_015999605.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2875522	3188658	2020-12-13	3112	PRJNA682584	SAMN17012772
+Enterococcus faecium		strain: Dallas 5	1352	ASM1612667v1	GCA_016126675.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2861768	3176084	2020-12-20	3117	PRJNA682584	SAMN17038066
+Enterococcus faecium		strain: Dallas 91	1352	ASM1640634v1	GCA_016406345.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2898846	3178613	2020-12-27	3099	PRJNA682584	SAMN17038086
+Enterococcus faecium		strain: Dallas 53_1	1352	ASM1640636v1	GCA_016406365.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2909522	3183862	2020-12-27	3109	PRJNA682584	SAMN17038078
+Enterococcus faecium		strain: Dallas 55	1352	ASM1640638v1	GCA_016406385.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2877824	3188009	2020-12-27	3119	PRJNA682584	SAMN17038079
+Enterococcus faecium		strain: Dallas 66	1352	ASM1640640v1	GCA_016406405.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2875677	3219633	2020-12-27	3178	PRJNA682584	SAMN17038081
+Enterococcus faecium		strain: Dallas 83	1352	ASM1640642v1	GCA_016406425.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2872079	3144832	2020-12-27	3068	PRJNA682584	SAMN17038084
+Enterococcus faecium		strain: Dallas 17_1	1352	ASM1640644v1	GCA_016406445.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2856012	3113138	2020-12-27	3057	PRJNA682584	SAMN17038071
+Enterococcus faecium		strain: Dallas 51_4	1352	ASM1640646v1	GCA_016406465.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2921433	3345966	2020-12-27	3295	PRJNA682584	SAMN17038075
+Enterococcus faecium		strain: Dallas 16_1	1352	ASM1640648v1	GCA_016406485.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2758635	3240626	2020-12-27	3248	PRJNA682584	SAMN17038069
+Enterococcus faecium		strain: Dallas 87_1	1352	ASM1640650v1	GCA_016406505.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2891429	3315060	2020-12-27	3283	PRJNA682584	SAMN17038085
+Enterococcus faecium		strain: Dallas 71_2	1352	ASM1640652v1	GCA_016406525.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2907111	3219856	2020-12-27	3172	PRJNA682584	SAMN17038083
+Enterococcus faecium		strain: Dallas 53_2	1352	ASM1640654v1	GCA_016406545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2912773	3187114	2020-12-27	3108	PRJNA682584	SAMN17038077
+Enterococcus faecium		strain: Dallas 57	1352	ASM1640656v1	GCA_016406565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2887365	3188727	2020-12-27	3108	PRJNA682584	SAMN17038080
+Enterococcus faecium		strain: Dallas 93_3	1352	ASM1640658v1	GCA_016406585.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2883542	3170316	2020-12-27	3082	PRJNA682584	SAMN17038089
+Enterococcus faecium		strain: Dallas 93_2	1352	ASM1640660v1	GCA_016406605.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2836862	3172134	2020-12-27	3109	PRJNA682584	SAMN17038088
+Enterococcus faecium		strain: Dallas 97_1	1352	ASM1641502v1	GCA_016415025.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2919164	3232419	2020-12-28	3171	PRJNA682584	SAMN17038090
+Enterococcus faecium		strain: Dallas 103	1352	ASM1641510v1	GCA_016415105.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2880566	3192907	2020-12-28	3120	PRJNA682584	SAMN17038093
+Enterococcus faecium		strain: Dallas 100_1	1352	ASM1641528v1	GCA_016415285.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2963589	3240912	2020-12-28	3209	PRJNA682584	SAMN17038091
+Enterococcus faecium		strain: Dallas 107_1	1352	ASM1641532v1	GCA_016415325.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2877225	3182127	2020-12-28	3105	PRJNA682584	SAMN17038094
+Enterococcus faecium		strain: Dallas 111	1352	ASM1641534v1	GCA_016415345.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2811636	3067428	2020-12-28	3023	PRJNA682584	SAMN17038095
+Enterococcus faecium		strain: Dallas 124_3	1352	ASM1641536v1	GCA_016415365.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2829571	3142453	2020-12-28	3082	PRJNA682584	SAMN17038100
+Enterococcus faecium		strain: Dallas 124_1	1352	ASM1641538v1	GCA_016415385.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2829571	3142454	2020-12-28	3084	PRJNA682584	SAMN17038098
+Enterococcus faecium		strain: Dallas 144_1	1352	ASM1641540v1	GCA_016415405.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2977402	3248094	2020-12-28	3185	PRJNA682584	SAMN17038103
+Enterococcus faecium		strain: Dallas 148	1352	ASM1641542v1	GCA_016415425.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2875644	3190339	2020-12-28	3114	PRJNA682584	SAMN17038104
+Enterococcus faecium		strain: Dallas 137	1352	ASM1641544v1	GCA_016415445.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2836397	3115438	2020-12-28	3064	PRJNA682584	SAMN17038102
+Enterococcus faecium		strain: Dallas 131_2	1352	ASM1641546v1	GCA_016415465.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2874289	3186322	2020-12-28	3109	PRJNA682584	SAMN17038101
+Enterococcus faecium		strain: Dallas 163_1	1352	ASM1641548v1	GCA_016415485.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2856614	3095810	2020-12-28	3054	PRJNA682584	SAMN17038111
+Enterococcus faecium		strain: Dallas 155	1352	ASM1641550v1	GCA_016415505.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2888311	3218956	2020-12-28	3166	PRJNA682584	SAMN17038106
+Enterococcus faecium		strain: Dallas 154_1	1352	ASM1641554v1	GCA_016415545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2801313	2994328	2020-12-28	2941	PRJNA682584	SAMN17038105
+Enterococcus faecium		strain: Dallas 158	1352	ASM1641556v1	GCA_016415565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2804833	3006060	2020-12-28	2955	PRJNA682584	SAMN17038107
+Enterococcus faecium		strain: VRE33623	1352	ASM1653416v2	GCA_016534165.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2834158	3112307	2025-10-05	3082	PRJNA475751	SAMN11285769
+Enterococcus faecium		strain: fac90	1352	ASM1674385v1	GCA_016743855.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2566374	2775349	2021-01-22	2734	PRJNA688144	SAMN17169726
+Enterococcus faecium		strain: WGS1811-4-7	1352	ASM1686425v1	GCA_016864255.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2920742	3211076	2021-02-11	3175	PRJNA576159	SAMN12930511
+Enterococcus faecium		strain: AUSMDU00011555	1352	ASM1730135v1	GCA_017301355.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2946167	3263630	2021-03-08	3207	PRJNA565795	SAMN18082828
+Enterococcus faecium		strain: VRE3355	1352	ASM1758406v1	GCA_017584065.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2869924	3146851	2021-03-25	3080	PRJNA646837	SAMN15566637
+Enterococcus faecium		strain: VB13828	1352	ASM1760372v1	GCA_017603725.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2710423	3095842	2021-03-29	3084	PRJNA715591	SAMN18353823
+Enterococcus faecium		strain: VB12993	1352	ASM1781565v1	GCA_017815655.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2835007	3151778	2021-04-07	3117	PRJNA718447	SAMN18533867
+Enterococcus faecium		strain: VB3895	1352	ASM1781567v1	GCA_017815675.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2788375	3106441	2021-04-07	3035	PRJNA718444	SAMN18533866
+Enterococcus faecium		strain: VB976	1352	ASM1781569v1	GCA_017815695.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2793479	3210490	2021-04-07	3189	PRJNA718448	SAMN18533868
+Enterococcus faecium		strain: VB6171	1352	ASM1789796v1	GCA_017897965.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2869878	3248079	2021-04-11	3179	PRJNA718441	SAMN18533763
+Enterococcus faecium		strain: VB6521	1352	ASM1789800v1	GCA_017898005.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2869878	3248079	2021-04-11	3179	PRJNA718440	SAMN18533757
+Enterococcus faecium		strain: VB3378	1352	ASM1789802v1	GCA_017898025.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2792149	3206679	2021-04-11	3164	PRJNA718443	SAMN18533778
+Enterococcus faecium		strain: PR05720-3	1352	ASM1821928v1	GCA_018219285.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2614023	2896523	2021-04-30	2893	PRJNA673360	SAMN16327791
+Enterococcus faecium		strain: PR01996-12	1352	ASM1821932v1	GCA_018219325.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2792338	3177810	2021-04-30	3114	PRJNA673360	SAMN16327730
+Enterococcus faecium		strain: 116	1352	ASM1827914v1	GCA_018279145.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2477277	2712340	2021-05-05	2624	PRJNA598632	SAMN13709031
+Enterococcus faecium		strain: 18-465	1352	ASM1851684v1	GCA_018516845.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2557427	2581780	2021-05-26	2494	PRJNA682333	SAMN16988100
+Enterococcus faecium		strain: 18-276	1352	ASM1851692v1	GCA_018516925.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2650864	2942453	2021-05-26	2877	PRJNA682333	SAMN16988099
+Enterococcus faecium		strain: 18-133	1352	ASM1851702v1	GCA_018517025.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2722883	2873307	2021-05-26	2824	PRJNA682333	SAMN16988096
+Enterococcus faecium		strain: 17-508	1352	ASM1851704v1	GCA_018517045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2723190	2874010	2021-05-26	2818	PRJNA682333	SAMN16988094
+Enterococcus faecium		strain: 17-318	1352	ASM1851706v1	GCA_018517065.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2632191	2914615	2021-05-26	2876	PRJNA682333	SAMN16988093
+Enterococcus faecium		strain: 16-164	1352	ASM1851708v1	GCA_018517085.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2500673	2782002	2021-05-26	2736	PRJNA682333	SAMN16988092
+Enterococcus faecium		strain: 16-021	1352	ASM1851710v1	GCA_018517105.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2718572	2908103	2021-05-26	2837	PRJNA682333	SAMN16988091
+Enterococcus faecium		strain: 18-204	1352	ASM1851714v1	GCA_018517145.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2672970	2982571	2021-05-26	2926	PRJNA682333	SAMN16988098
+Enterococcus faecium		strain: 18-201	1352	ASM1851716v1	GCA_018517165.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2772026	2949262	2021-05-26	2893	PRJNA682333	SAMN16988097
+Enterococcus faecium		strain: 18-042	1352	ASM1851718v1	GCA_018517185.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2651821	2665360	2021-05-26	2594	PRJNA682333	SAMN16988095
+Enterococcus faecium		strain: F88	1352	ASM1917542v1	GCA_019175425.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2608143	2895554	2021-07-08	2841	PRJNA719983	SAMN18631322
+Enterococcus faecium		strain: F39	1352	ASM1917544v1	GCA_019175445.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2448233	2671769	2021-07-08	2594	PRJNA719983	SAMN18631321
+Enterococcus faecium		strain: F179	1352	ASM1917546v1	GCA_019175465.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2602775	2858009	2021-07-08	2763	PRJNA719983	SAMN18631320
+Enterococcus faecium		strain: AVS0243	1352	ASM1917552v1	GCA_019175525.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2600276	2673843	2021-07-08	2590	PRJNA719983	SAMN18631313
+Enterococcus faecium		strain: 7150	1352	ASM1935635v1	GCA_019356355.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2666353	2760155	2021-07-27	2685	PRJNA747112	SAMN20255402
+Enterococcus faecium		strain: VBO96	1352	ASM1945655v1	GCA_019456555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2429707	2598060	2021-08-06	2512	PRJNA702050	SAMN17922924
+Enterococcus faecium		strain: VBO39	1352	ASM1945657v1	GCA_019456575.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2425126	2590784	2021-08-06	2507	PRJNA702050	SAMN17922923
+Enterococcus faecium		strain: VBR48	1352	ASM1945659v1	GCA_019456595.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2428778	2594430	2021-08-06	2508	PRJNA702050	SAMN17922919
+Enterococcus faecium		strain: E843xGE-1-TC1	1352	ASM1977455v1	GCA_019774555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2511326	2711892	2021-08-26	2648	PRJNA755459	SAMN20825195
+Enterococcus faecium		strain: AA620	1352	ASM1997749v1	GCA_019977495.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2990066	3176213	2021-07-14	3286	PRJDB11708	SAMD00324535
+Enterococcus faecium		strain: AA622	1352	ASM1997757v1	GCA_019977575.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	3019093	3272503	2021-07-14	3439	PRJDB11708	SAMD00324536
+Enterococcus faecium		strain: HJP554	1352	ASM2009132v1	GCA_020091325.1	GenBank		Complete Genome	2895608	3142089	2021-09-22		PRJNA757565	SAMN21438094
+Enterococcus faecium		isolate: V1225	1352	ASM2016215v1	GCA_020162155.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2723557	3003650	2021-09-28	2978	PRJNA764087	SAMEA5367970
+Enterococcus faecium		isolate: V1164	1352	ASM2016217v1	GCA_020162175.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2718175	3028274	2021-09-28	2992	PRJNA764087	SAMEA5367917
+Enterococcus faecium		strain: 4995/20	1352	ASM2022173v2	GCA_020221735.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2726121	3108773	2021-10-04	3038	PRJNA766534	SAMN21850488
+Enterococcus faecium		strain: SC1762	1352	ASM2073658v1	GCA_020736585.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2814835	3294408	2021-11-03	3298	PRJNA775802	SAMN22627481
+Enterococcus faecium		strain: SC1762-D	1352	ASM2073662v1	GCA_020736625.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2816191	3296578	2021-11-03	3300	PRJNA775802	SAMN22627489
+Enterococcus faecium		strain: V13-21-E11-012-001	1352	ASM2117210v3	GCA_021172105.3	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2727101	3146310	2022-03-07	3089	PRJNA784750	SAMN23500290
+Enterococcus faecium		strain: NMVRE-001	1352	ASM2122861v1	GCA_021228615.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2831554	3173447	2021-12-19	3127	PRJNA787599	SAMN23828484
+Enterococcus faecium		strain: H7	1352	ASM2139850v1	GCA_021398505.1	GenBank		Complete Genome	2529646	2654524	2022-01-10		PRJNA760967	SAMN21240068
+Enterococcus faecium		strain: P47	1352	ASM2156019v1	GCA_021560195.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2560635	2830393	2022-01-24	2784	PRJNA797893	SAMN25039860
+Enterococcus faecium		strain: UK043	1352	ASM2171309v1	GCA_021713095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2821771	3161047	2022-01-29	3175	PRJNA779589	SAMN25134383
+Enterococcus faecium		strain: UK040	1352	ASM2189945v1	GCA_021899455.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2711964	3017536	2022-02-03	2983	PRJNA779589	SAMN25260013
+Enterococcus faecium		strain: UAMS_EF58	1352	ASM2264782v1	GCA_022647825.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2841249	3222911	2022-03-21	3159	PRJNA735268	SAMN19573784
+Enterococcus faecium		strain: UAMS_EF57	1352	ASM2264794v1	GCA_022647945.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2841244	3230151	2022-03-21	3169	PRJNA735268	SAMN19573783
+Enterococcus faecium		strain: UAMS_EF55	1352	ASM2264812v1	GCA_022648125.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2841245	3231412	2022-03-21	3171	PRJNA735268	SAMN19573782
+Enterococcus faecium		strain: VRE-WC072	1352	ASM2269144v1	GCA_022691445.1	GenBank	Annotation submitted by NYS DOH	Complete Genome	2862182	3157285	2022-03-24	3043	PRJNA808078	SAMN26026626
+Enterococcus faecium		strain: NY2032	1352	ASM2269922v1	GCA_022699225.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2794484	3131413	2022-03-27	3104	PRJNA817292	SAMN26754680
+Enterococcus faecium		strain: NY11067	1352	ASM2269954v1	GCA_022699545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2891566	3147666	2022-03-27	3085	PRJNA817298	SAMN26754766
+Enterococcus faecium		strain: NY11066	1352	ASM2269956v1	GCA_022699565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2929543	3196492	2022-03-27	3160	PRJNA817296	SAMN26754719
+Enterococcus faecium		strain: NY13320	1352	ASM2274945v1	GCA_022749455.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2834459	3122781	2022-03-29	3098	PRJNA817389	SAMN26755017
+Enterococcus faecium		strain: BMT-5-1-10	1352	ASM2281108v1	GCA_022811085.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2805243	3301561	2022-04-04	3321	PRJNA669626	SAMN16442613
+Enterococcus faecium		strain: BMT-2-2-11	1352	ASM2281112v1	GCA_022811125.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2773457	3163684	2022-04-04	3136	PRJNA669626	SAMN16483167
+Enterococcus faecium		strain: BMT-4-1-1	1352	ASM2281114v1	GCA_022811145.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2723424	3197093	2022-04-04	3154	PRJNA669626	SAMN16483166
+Enterococcus faecium		strain: ICU-1-2	1352	ASM2281116v1	GCA_022811165.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2834694	3213116	2022-04-04	3153	PRJNA669626	SAMN16483165
+Enterococcus faecium		strain: BMT-1-1-10	1352	ASM2281118v1	GCA_022811185.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2879928	3311392	2022-04-04	3265	PRJNA669626	SAMN16483164
+Enterococcus faecium		strain: ICU-3-1	1352	ASM2281120v1	GCA_022811205.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3031704	3225787	2022-04-04	3201	PRJNA669626	SAMN16483163
+Enterococcus faecium		strain: BMT-1-1-11	1352	ASM2281122v1	GCA_022811225.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2779020	3229871	2022-04-04	3221	PRJNA669626	SAMN16483162
+Enterococcus faecium		strain: BMT-1-1-12	1352	ASM2281124v1	GCA_022811245.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2773457	3156260	2022-04-04	3123	PRJNA669626	SAMN16483161
+Enterococcus faecium		strain: BMT-4-1-11	1352	ASM2281126v1	GCA_022811265.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2780825	3192821	2022-04-04	3116	PRJNA669626	SAMN16483160
+Enterococcus faecium		strain: BMT-2-1-1	1352	ASM2281128v1	GCA_022811285.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2879931	3313617	2022-04-04	3270	PRJNA669626	SAMN16483159
+Enterococcus faecium		strain: BMT-1-3-1	1352	ASM2281130v1	GCA_022811305.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2711094	3105861	2022-04-04	3085	PRJNA669626	SAMN16483158
+Enterococcus faecium		strain: BMT-3-2-1	1352	ASM2281132v1	GCA_022811325.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2935152	3261503	2022-04-04	3214	PRJNA669626	SAMN16483157
+Enterococcus faecium		strain: BMT-2-3-8	1352	ASM2281134v1	GCA_022811345.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2894008	3228753	2022-04-04	3171	PRJNA669626	SAMN16483156
+Enterococcus faecium		strain: BMT-2-1-3	1352	ASM2281136v1	GCA_022811365.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2777253	3225132	2022-04-04	3215	PRJNA669626	SAMN16483155
+Enterococcus faecium		strain: ICU-1-1	1352	ASM2281138v1	GCA_022811385.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3026132	3223261	2022-04-04	3192	PRJNA669626	SAMN16483154
+Enterococcus faecium		strain: BMT-4-1-3	1352	ASM2281140v1	GCA_022811405.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2844294	3162016	2022-04-04	3126	PRJNA669626	SAMN16483153
+Enterococcus faecium		strain: ICU-4-1	1352	ASM2281142v1	GCA_022811425.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2985633	3186685	2022-04-04	3157	PRJNA669626	SAMN16483152
+Enterococcus faecium		strain: ICU-5-1	1352	ASM2281144v1	GCA_022811445.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2938532	3135223	2022-04-04	3095	PRJNA669626	SAMN16483151
+Enterococcus faecium		strain: ICU-2-1	1352	ASM2281146v1	GCA_022811465.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2785283	3082760	2022-04-04	3018	PRJNA669626	SAMN16483150
+Enterococcus faecium		strain: AKSZ-47	1352	ASM2318281v2	GCA_023182815.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2633425	2890883	2022-11-14	2820	PRJNA716763	SAMN27545022
+Enterococcus faecium		strain: AKSZ-142	1352	ASM2318283v2	GCA_023182835.2	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2643531	2932330	2022-11-14	2942	PRJNA716763	SAMN27545023
+Enterococcus faecium		strain: UCH1	1352	ASM2320495v1	GCA_023204955.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2977510	3334275	2022-05-02	3274	PRJNA830484	SAMN27725314
+Enterococcus faecium		strain: UCH5	1352	ASM2320497v1	GCA_023204975.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2769471	3073918	2022-05-02	3011	PRJNA830504	SAMN27728132
+Enterococcus faecium		strain: AT47b	1352	ASM2329932v1	GCA_023299325.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2603360	2876641	2022-05-10	2827	PRJNA833940	SAMN28025465
+Enterococcus faecium		strain: AT45b	1352	ASM2329972v1	GCA_023299725.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2701552	2910810	2022-05-10	2879	PRJNA833940	SAMN28025462
+Enterococcus faecium		strain: AT44	1352	ASM2329974v1	GCA_023299745.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2644774	2881432	2022-05-10	2854	PRJNA833940	SAMN28025461
+Enterococcus faecium		strain: AT02	1352	ASM2329980v1	GCA_023299805.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2587604	2740860	2022-05-10	2692	PRJNA833940	SAMN28025445
+Enterococcus faecium		strain: S2-6b	1352	ASM2337520v1	GCA_023375205.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2531120	2744440	2022-05-16	2664	PRJNA774104	SAMN23424489
+Enterococcus faecium		strain: S39-7a	1352	ASM2337522v1	GCA_023375225.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2619548	2663299	2022-05-16	2605	PRJNA774104	SAMN23424486
+Enterococcus faecium		strain: 1818	1352	ASM2337534v1	GCA_023375345.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2469207	2668264	2022-05-16	2567	PRJNA783264	SAMN23424744
+Enterococcus faecium		strain: 211b	1352	ASM2337536v1	GCA_023375365.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2488599	2615808	2022-05-16	2532	PRJNA783264	SAMN23424743
+Enterococcus faecium		strain: 264a	1352	ASM2337538v1	GCA_023375385.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2558214	2800028	2022-05-16	2728	PRJNA783264	SAMN23424742
+Enterococcus faecium		strain: 1525	1352	ASM2337540v1	GCA_023375405.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2507479	2717415	2022-05-16	2630	PRJNA783264	SAMN23424741
+Enterococcus faecium		strain: 642	1352	ASM2337542v1	GCA_023375425.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2766791	2963435	2022-05-16	2887	PRJNA783264	SAMN23424740
+Enterococcus faecium		strain: 237	1352	ASM2337544v1	GCA_023375445.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2627634	2672075	2022-05-16	2605	PRJNA783264	SAMN23424739
+Enterococcus faecium		strain: ef332	1352	ASM2365803v1	GCA_023658035.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2755510	3087483	2022-06-07	3074	PRJNA644957	SAMN15486631
+Enterococcus faecium		strain: ENCfa-68	1352	ASM2466567v1	GCA_024665675.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2685395	2695146	2022-08-15	2607	PRJNA860779	SAMN29862207
+Enterococcus faecium		strain: ATF64	1352	ASM2580054v1	GCA_025800545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2552901	2777698	2022-10-23	2720	PRJNA888950	SAMN31247869
+Enterococcus faecium		strain: BTF71-1	1352	ASM2580062v1	GCA_025800625.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2565133	2813783	2022-10-23	2770	PRJNA888950	SAMN31247870
+Enterococcus faecium		strain: IC25	1352	ASM2580064v1	GCA_025800645.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2607783	2845269	2022-10-23	2794	PRJNA888950	SAMN31247871
+Enterococcus faecium		strain: TF51-2	1352	ASM2591359v1	GCA_025913595.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2634568	2872038	2022-10-31	2850	PRJNA888950	SAMN31247873
+Enterococcus faecium		strain: T17-1	1352	ASM2591623v1	GCA_025916235.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2577332	2913401	2022-10-31	2876	PRJNA888950	SAMN31247872
+Enterococcus faecium		strain: NUITM-VRE1	1352	ASM2599839v1	GCA_025998395.1	GenBank	Annotation submitted by AMR Research Center, National Institute of Infectious Diseases	Complete Genome	2804859	3253442	2022-09-10	3264	PRJDB10427	SAMD00533729
+Enterococcus faecium		strain: JHP9	1352	ASM2607311v1	GCA_026073115.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2835106	3291354	2022-08-10	3523	PRJDB13429	SAMD00466802
+Enterococcus faecium		strain: JHP10	1352	ASM2607325v1	GCA_026073255.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2839030	3292484	2022-08-10	3602	PRJDB13429	SAMD00466803
+Enterococcus faecium		strain: JHP35	1352	ASM2607335v1	GCA_026073355.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2813406	3219219	2022-08-10	3529	PRJDB13429	SAMD00466804
+Enterococcus faecium		strain: JHP36	1352	ASM2607337v1	GCA_026073375.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2905854	3291965	2022-08-10	3626	PRJDB13429	SAMD00466805
+Enterococcus faecium		strain: JHP38	1352	ASM2607339v1	GCA_026073395.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2907603	3281073	2022-08-10	3526	PRJDB13429	SAMD00466806
+Enterococcus faecium		strain: JHP80	1352	ASM2607341v1	GCA_026073415.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2921286	3041083	2022-08-10	3156	PRJDB13429	SAMD00466807
+Enterococcus faecium		strain: AA55	1352	ASM2607343v1	GCA_026073435.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2843325	3207122	2022-08-10	3344	PRJDB13429	SAMD00466808
+Enterococcus faecium		strain: AA94	1352	ASM2607345v1	GCA_026073455.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2749946	3225797	2022-08-10	3477	PRJDB13429	SAMD00466809
+Enterococcus faecium		strain: AA96	1352	ASM2607347v1	GCA_026073475.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2759577	3284255	2022-08-10	3646	PRJDB13429	SAMD00466810
+Enterococcus faecium		strain: AA242	1352	ASM2607349v1	GCA_026073495.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2921512	3283513	2022-08-10	3646	PRJDB13429	SAMD00466811
+Enterococcus faecium		strain: AA290	1352	ASM2607351v1	GCA_026073515.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2797787	3230447	2022-08-10	3557	PRJDB13429	SAMD00466812
+Enterococcus faecium		strain: AA610	1352	ASM2607353v1	GCA_026073535.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2821420	3294204	2022-08-10	3704	PRJDB13429	SAMD00466813
+Enterococcus faecium		strain: AA818	1352	ASM2607355v1	GCA_026073555.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2825547	3311651	2022-08-10	3504	PRJDB13429	SAMD00466814
+Enterococcus faecium		strain: GK923	1352	ASM2607362v1	GCA_026073625.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2836077	3146670	2022-08-10	3258	PRJDB13429	SAMD00466815
+Enterococcus faecium		strain: GK941	1352	ASM2607373v1	GCA_026073735.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2833359	3143489	2022-08-10	3279	PRJDB13429	SAMD00466816
+Enterococcus faecium		strain: GK961	1352	ASM2607391v1	GCA_026073915.1	GenBank	Annotation submitted by Bacteriology, Graduate School of Medicine, Gunma University	Complete Genome	2834237	3134700	2022-08-10	3266	PRJDB13429	SAMD00466817
+Enterococcus faecium		strain: DVT1681	1352	ASM2640916v1	GCA_026409165.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2891501	3267914	2022-11-26	3246	PRJNA901969	SAMN31742645
+Enterococcus faecium		strain: WN-18	1352	ASM2642757v1	GCA_026427575.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2510070	2690881	2022-11-28	2582	PRJNA853099	SAMN29360020
+Enterococcus faecium		strain: EF0656	1352	ASM2728624v1	GCA_027286245.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2812792	3060378	2022-12-26	3034	PRJNA913624	SAMN32302292
+Enterococcus faecium		strain: DMEA09	1352	ASM2791523v1	GCA_027915235.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2546756	2546756	2023-01-18	2472	PRJNA917205	SAMN32527831
+Enterococcus faecium		strain: CQFYH22-006	1352	ASM2794453v1	GCA_027944535.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2506224	2669248	2023-01-24	2594	PRJNA921812	SAMN32632906
+Enterococcus faecium		strain: K195-6b	1352	ASM2833520v1	GCA_028335205.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2605577	2798314	2023-01-31	2753	PRJNA783265	SAMN23424535
+Enterococcus faecium		strain: K191-3	1352	ASM2833522v1	GCA_028335225.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2615969	2840562	2023-01-31	2790	PRJNA783265	SAMN23424529
+Enterococcus faecium		strain: R39-1	1352	ASM2833524v1	GCA_028335245.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2535136	2735269	2023-01-31	2660	PRJNA783265	SAMN23424534
+Enterococcus faecium		strain: R186-2	1352	ASM2833526v1	GCA_028335265.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2666289	2868420	2023-01-31	2798	PRJNA783265	SAMN23424533
+Enterococcus faecium		strain: K69-1a	1352	ASM2833546v1	GCA_028335465.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2628070	2916853	2023-01-31	2871	PRJNA783265	SAMN23424532
+Enterococcus faecium		strain: K188-5	1352	ASM2833548v1	GCA_028335485.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2615984	2843926	2023-01-31	2793	PRJNA783265	SAMN23424531
+Enterococcus faecium		strain: K162-1	1352	ASM2833552v1	GCA_028335525.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2685086	2862866	2023-01-31	2789	PRJNA783265	SAMN23424528
+Enterococcus faecium		strain: K75-1	1352	ASM2833556v1	GCA_028335565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2639985	2837343	2023-01-31	2775	PRJNA783265	SAMN23424527
+Enterococcus faecium		strain: K70-1a	1352	ASM2833558v1	GCA_028335585.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2722678	3004965	2023-01-31	2959	PRJNA783265	SAMN23424526
+Enterococcus faecium		strain: K189-3	1352	ASM2833560v1	GCA_028335605.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2637815	2835173	2023-01-31	2774	PRJNA783265	SAMN23424525
+Enterococcus faecium		strain: K80-15b	1352	ASM2833562v1	GCA_028335625.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2652140	2891890	2023-01-31	2833	PRJNA783265	SAMN23424524
+Enterococcus faecium		strain: W6	1352	ASM2889152v1	GCA_028891525.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2697349	2986947	2023-03-01	2952	PRJNA936607	SAMN33358676
+Enterococcus faecium		strain: DSM 20477	1352	ASM2902378v1	GCA_029023785.1	GenBank		Complete Genome	2529607	2672229	2023-03-08		PRJNA936091	SAMN33336517
+Enterococcus faecium		strain: GENOMIC22-005	1352	ASM2916766v1	GCA_029167665.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2934904	3234880	2023-03-12	3183	PRJNA938504	SAMN33438667
+Enterococcus faecium		strain: XJ78NG	1352	ASM3006473v1	GCA_030064735.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2613997	2702315	2023-05-23	2652	PRJNA889763	SAMN31265469
+Enterococcus faecium		strain: K6D	1352	ASM3029578v1	GCA_030295785.1	GenBank	Annotation submitted by Rakuno Gakuen University	Complete Genome	2552600	2840077	2023-02-21	2847	PRJDB15240	SAMD00577372
+Enterococcus faecium		strain: A2	1352	ASM3031615v1	GCA_030316155.1	GenBank		Complete Genome	2881288	2913126	2023-06-21		PRJNA983092	SAMN35725530
+Enterococcus faecium		strain: AK_C_05	1352	ASM3040606v1	GCA_030406065.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2691296	2869028	2023-07-04	2818	PRJNA980926	SAMN35654454
+Enterococcus faecium		strain: C0019EM0007	1352	ASM3058167v1	GCA_030581675.1	GenBank		Complete Genome	2849707	2933753	2023-08-02		PRJNA983092	SAMN36718359
+Enterococcus faecium		strain: C0019EM0014	1352	ASM3058177v1	GCA_030581775.1	GenBank		Complete Genome	2878418	2909782	2023-08-02		PRJNA983092	SAMN36718851
+Enterococcus faecium		strain: C0019EM0008	1352	ASM3058179v1	GCA_030581795.1	GenBank		Complete Genome	2712016	2739230	2023-08-02		PRJNA983092	SAMN36718850
+Enterococcus faecium		strain: A0019EM0021	1352	ASM3058420v1	GCA_030584205.1	GenBank		Complete Genome	2789701	2814354	2023-08-02		PRJNA983092	SAMN36707033
+Enterococcus faecium		strain: A0019EM0020	1352	ASM3058422v1	GCA_030584225.1	GenBank		Complete Genome	2868998	2899430	2023-08-02		PRJNA983092	SAMN36706935
+Enterococcus faecium		strain: A0019EM0022	1352	ASM3058424v1	GCA_030584245.1	GenBank		Complete Genome	2787044	2912861	2023-08-02		PRJNA983092	SAMN36707092
+Enterococcus faecium		strain: A0019EM0035	1352	ASM3058426v1	GCA_030584265.1	GenBank		Complete Genome	2693671	2796690	2023-08-02		PRJNA983092	SAMN36707139
+Enterococcus faecium		strain: B0019EM0006	1352	ASM3058428v1	GCA_030584285.1	GenBank		Complete Genome	3000945	3035008	2023-08-02		PRJNA983092	SAMN36707497
+Enterococcus faecium		strain: B0019EM0004	1352	ASM3058430v1	GCA_030584305.1	GenBank		Complete Genome	2897032	2927984	2023-08-02		PRJNA983092	SAMN36707202
+Enterococcus faecium		strain: B0019EM0014	1352	ASM3058432v1	GCA_030584325.1	GenBank		Complete Genome	2765908	2795535	2023-08-02		PRJNA983092	SAMN36707533
+Enterococcus faecium		strain: B0019EM0012	1352	ASM3058434v1	GCA_030584345.1	GenBank		Complete Genome	2736183	2886425	2023-08-02		PRJNA983092	SAMN36707500
+Enterococcus faecium		strain: B0019EM0015	1352	ASM3058436v1	GCA_030584365.1	GenBank		Complete Genome	2931954	2976435	2023-08-02		PRJNA983092	SAMN36707534
+Enterococcus faecium		strain: B0019EM0017	1352	ASM3058438v1	GCA_030584385.1	GenBank		Complete Genome	2877192	2915109	2023-08-02		PRJNA983092	SAMN36707548
+Enterococcus faecium		strain: B0019EM0019	1352	ASM3058440v1	GCA_030584405.1	GenBank		Complete Genome	2937328	2988412	2023-08-02		PRJNA983092	SAMN36707724
+Enterococcus faecium		strain: B0019EM0026	1352	ASM3058442v1	GCA_030584425.1	GenBank		Complete Genome	2937368	2978983	2023-08-02		PRJNA983092	SAMN36707778
+Enterococcus faecium		strain: B0019EM0030	1352	ASM3058444v1	GCA_030584445.1	GenBank		Complete Genome	2828961	2854175	2023-08-02		PRJNA983092	SAMN36707781
+Enterococcus faecium		strain: B0019EM0022	1352	ASM3058446v1	GCA_030584465.1	GenBank		Complete Genome	2829989	2863940	2023-08-02		PRJNA983092	SAMN36707726
+Enterococcus faecium		strain: B0019EM0028	1352	ASM3058448v1	GCA_030584485.1	GenBank		Complete Genome	2932603	2973174	2023-08-02		PRJNA983092	SAMN36707779
+Enterococcus faecium		strain: B0019EM0023	1352	ASM3058450v1	GCA_030584505.1	GenBank		Complete Genome	2963941	3000330	2023-08-02		PRJNA983092	SAMN36707727
+Enterococcus faecium		strain: B0019EM0032	1352	ASM3058452v1	GCA_030584525.1	GenBank		Complete Genome	2713019	2742647	2023-08-02		PRJNA983092	SAMN36707789
+Enterococcus faecium		strain: B0019EM0016	1352	ASM3058454v1	GCA_030584545.1	GenBank		Complete Genome	2961179	2999039	2023-08-02		PRJNA983092	SAMN36707535
+Enterococcus faecium		strain: B0019EM0040	1352	ASM3058458v1	GCA_030584585.1	GenBank		Complete Genome	2944261	2944261	2023-08-02		PRJNA983092	SAMN36717994
+Enterococcus faecium		strain: C0019EM0016	1352	ASM3058460v1	GCA_030584605.1	GenBank		Complete Genome	2954274	2954274	2023-08-02		PRJNA983092	SAMN36718889
+Enterococcus faecium		strain: A0019EM0008	1352	ASM3058462v1	GCA_030584625.1	GenBank		Complete Genome	2953193	3002972	2023-08-02		PRJNA983092	SAMN36706633
+Enterococcus faecium		strain: A0019EM0010	1352	ASM3058464v1	GCA_030584645.1	GenBank		Complete Genome	2958613	3054771	2023-08-02		PRJNA983092	SAMN36706933
+Enterococcus faecium		strain: A0019EM0007	1352	ASM3058466v1	GCA_030584665.1	GenBank		Complete Genome	2893143	2934011	2023-08-02		PRJNA983092	SAMN36706555
+Enterococcus faecium		strain: B0019EM0034	1352	ASM3058468v1	GCA_030584685.1	GenBank		Complete Genome	3003360	3003360	2023-08-02		PRJNA983092	SAMN36707809
+Enterococcus faecium		strain: CX2-6	1352	ASM3064374v1	GCA_030643745.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2559204	2559204	2023-08-04	2586	PRJNA554740	SAMN12282898
+Enterococcus faecium		isolate: B0019EM0038	1352	ASM3064474v1	GCA_030644745.1	GenBank		Complete Genome	2979745	3019120	2023-08-05		PRJNA983092	SAMN36717978
+Enterococcus faecium		strain: B0019EM0045	1352	ASM3064476v1	GCA_030644765.1	GenBank		Complete Genome	2945731	2990012	2023-08-05		PRJNA983092	SAMN36718214
+Enterococcus faecium		strain: B0019EM0041	1352	ASM3064478v1	GCA_030644785.1	GenBank		Complete Genome	2964471	3003846	2023-08-05		PRJNA983092	SAMN36718008
+Enterococcus faecium		strain: C0019EM0002	1352	ASM3064480v1	GCA_030644805.1	GenBank		Complete Genome	2933346	2963419	2023-08-05		PRJNA983092	SAMN36718216
+Enterococcus faecium		strain: C0019EM0006	1352	ASM3064482v1	GCA_030644825.1	GenBank		Complete Genome	2900640	2937274	2023-08-05		PRJNA983092	SAMN36718321
+Enterococcus faecium		strain: C0019EM0037	1352	ASM3065669v1	GCA_030656695.1	GenBank		Complete Genome	2981100	2981100	2023-08-06		PRJNA983092	SAMN36719344
+Enterococcus faecium		strain: C0019EM0019	1352	ASM3065671v1	GCA_030656715.1	GenBank		Complete Genome	2896582	2922504	2023-08-06		PRJNA983092	SAMN36719123
+Enterococcus faecium		strain: C0019EM0018	1352	ASM3065673v1	GCA_030656735.1	GenBank		Complete Genome	2751781	2906868	2023-08-06		PRJNA983092	SAMN36718962
+Enterococcus faecium		strain: C0019EM0029	1352	ASM3065675v1	GCA_030656755.1	GenBank		Complete Genome	2878881	2908347	2023-08-06		PRJNA983092	SAMN36719180
+Enterococcus faecium		strain: C0019EM0020	1352	ASM3065677v1	GCA_030656775.1	GenBank		Complete Genome	2822560	2854793	2023-08-06		PRJNA983092	SAMN36719124
+Enterococcus faecium		strain: C0019EM0030	1352	ASM3065679v1	GCA_030656795.1	GenBank		Complete Genome	2814635	2975874	2023-08-06		PRJNA983092	SAMN36719288
+Enterococcus faecium		strain: C0019EM0021	1352	ASM3065681v1	GCA_030656815.1	GenBank		Complete Genome	2942777	2984876	2023-08-06		PRJNA983092	SAMN36719126
+Enterococcus faecium		strain: C0019EM0028	1352	ASM3065683v1	GCA_030656835.1	GenBank		Complete Genome	2899735	2938755	2023-08-06		PRJNA983092	SAMN36719128
+Enterococcus faecium		strain: C0019EM0031	1352	ASM3065685v1	GCA_030656855.1	GenBank		Complete Genome	2737559	2896366	2023-08-06		PRJNA983092	SAMN36719299
+Enterococcus faecium		strain: D0019EM0001	1352	ASM3065689v1	GCA_030656895.1	GenBank		Complete Genome	2911051	2940848	2023-08-06		PRJNA983092	SAMN36719345
+Enterococcus faecium		strain: D0019EM0013	1352	ASM3065691v1	GCA_030656915.1	GenBank		Complete Genome	2839676	2882510	2023-08-06		PRJNA983092	SAMN36719477
+Enterococcus faecium		strain: D0019EM0009	1352	ASM3065693v1	GCA_030656935.1	GenBank		Complete Genome	2741560	2814033	2023-08-06		PRJNA983092	SAMN36719463
+Enterococcus faecium		strain: D0019EM0012	1352	ASM3065695v1	GCA_030656955.1	GenBank		Complete Genome	2901362	2936763	2023-08-06		PRJNA983092	SAMN36719475
+Enterococcus faecium		strain: C0019EM0033	1352	ASM3065697v1	GCA_030656975.1	GenBank		Complete Genome	2934580	2963301	2023-08-06		PRJNA983092	SAMN36719331
+Enterococcus faecium		strain: C0019EM0032	1352	ASM3065699v1	GCA_030656995.1	GenBank		Complete Genome	2446701	2603000	2023-08-06		PRJNA983092	SAMN36719324
+Enterococcus faecium		strain: D0019EM0008	1352	ASM3065701v1	GCA_030657015.1	GenBank		Complete Genome	2804484	2834452	2023-08-06		PRJNA983092	SAMN36719392
+Enterococcus faecium		strain: C0019EM0035	1352	ASM3065703v1	GCA_030657035.1	GenBank		Complete Genome	2891121	2909822	2023-08-06		PRJNA983092	SAMN36719343
+Enterococcus faecium		strain: F0019EM0001	1352	ASM3065705v1	GCA_030657055.1	GenBank		Complete Genome	2852543	2977843	2023-08-06		PRJNA983092	SAMN36734991
+Enterococcus faecium		strain: F0019EM0006	1352	ASM3065707v1	GCA_030657075.1	GenBank		Complete Genome	3025823	3061391	2023-08-06		PRJNA983092	SAMN36735063
+Enterococcus faecium		strain: F0019EM0008	1352	ASM3065709v1	GCA_030657095.1	GenBank		Complete Genome	2875825	2919159	2023-08-06		PRJNA983092	SAMN36735064
+Enterococcus faecium		strain: F0019EM0017	1352	ASM3065711v1	GCA_030657115.1	GenBank		Complete Genome	2887428	2918785	2023-08-06		PRJNA983092	SAMN36735231
+Enterococcus faecium		strain: F0019EM0011	1352	ASM3065713v1	GCA_030657135.1	GenBank		Complete Genome	2825217	2947657	2023-08-06		PRJNA983092	SAMN36735165
+Enterococcus faecium		strain: F0019EM0041	1352	ASM3065715v1	GCA_030657155.1	GenBank		Complete Genome	2787191	2824153	2023-08-06		PRJNA983092	SAMN36736016
+Enterococcus faecium		strain: D0019EM0023	1352	ASM3065717v1	GCA_030657175.1	GenBank		Complete Genome	2903696	2946278	2023-08-06		PRJNA983092	SAMN36719514
+Enterococcus faecium		strain: D0019EM0024	1352	ASM3065719v1	GCA_030657195.1	GenBank		Complete Genome	2801954	2834549	2023-08-06		PRJNA983092	SAMN36719515
+Enterococcus faecium		strain: D0019EM0026	1352	ASM3065721v1	GCA_030657215.1	GenBank		Complete Genome	2853580	2900042	2023-08-06		PRJNA983092	SAMN36719516
+Enterococcus faecium		strain: D0019EM0029	1352	ASM3065723v1	GCA_030657235.1	GenBank		Complete Genome	2776231	2808570	2023-08-06		PRJNA983092	SAMN36719542
+Enterococcus faecium		strain: E0019EM0001	1352	ASM3065725v1	GCA_030657255.1	GenBank		Complete Genome	2922978	2969698	2023-08-06		PRJNA983092	SAMN36733584
+Enterococcus faecium		strain: E0019EM0002	1352	ASM3065727v1	GCA_030657275.1	GenBank		Complete Genome	2869107	2903813	2023-08-06		PRJNA983092	SAMN36733603
+Enterococcus faecium		strain: E0019EM0007	1352	ASM3065729v1	GCA_030657295.1	GenBank		Complete Genome	2887141	2938500	2023-08-06		PRJNA983092	SAMN36733911
+Enterococcus faecium		strain: E0019EM0009	1352	ASM3065731v1	GCA_030657315.1	GenBank		Complete Genome	2896393	2928726	2023-08-06		PRJNA983092	SAMN36733916
+Enterococcus faecium		strain: E0019EM0016	1352	ASM3066478v1	GCA_030664785.1	GenBank		Complete Genome	2703152	2735234	2023-08-07		PRJNA983092	SAMN36734007
+Enterococcus faecium		strain: E0019EM0013	1352	ASM3066480v1	GCA_030664805.1	GenBank		Complete Genome	2835606	2867975	2023-08-07		PRJNA983092	SAMN36733917
+Enterococcus faecium		strain: E0019EM0020	1352	ASM3066482v1	GCA_030664825.1	GenBank		Complete Genome	2818235	2850317	2023-08-07		PRJNA983092	SAMN36734045
+Enterococcus faecium		strain: E0019EM0026	1352	ASM3066484v1	GCA_030664845.1	GenBank		Complete Genome	2842816	2872792	2023-08-07		PRJNA983092	SAMN36734084
+Enterococcus faecium		strain: E0019EM0072	1352	ASM3066486v1	GCA_030664865.1	GenBank		Complete Genome	2868298	2951701	2023-08-07		PRJNA983092	SAMN36734958
+Enterococcus faecium		strain: E0019EM0077	1352	ASM3066488v1	GCA_030664885.1	GenBank		Complete Genome	2937185	2984201	2023-08-07		PRJNA983092	SAMN36734979
+Enterococcus faecium		strain: F0019EM0002	1352	ASM3066490v1	GCA_030664905.1	GenBank		Complete Genome	2850141	2914793	2023-08-07		PRJNA983092	SAMN36734992
+Enterococcus faecium		strain: E0019EM0059	1352	ASM3066492v1	GCA_030664925.1	GenBank		Complete Genome	2701111	2733199	2023-08-07		PRJNA983092	SAMN36734957
+Enterococcus faecium		strain: E0019EM0047	1352	ASM3066494v1	GCA_030664945.1	GenBank		Complete Genome	2941919	3016374	2023-08-07		PRJNA983092	SAMN36734955
+Enterococcus faecium		strain: E0019EM0079	1352	ASM3066496v1	GCA_030664965.1	GenBank		Complete Genome	2923468	2966105	2023-08-07		PRJNA983092	SAMN36734981
+Enterococcus faecium		strain: E0019EM0078	1352	ASM3066498v1	GCA_030664985.1	GenBank		Complete Genome	2832370	2864738	2023-08-07		PRJNA983092	SAMN36734980
+Enterococcus faecium		strain: E0019EM0024	1352	ASM3066500v1	GCA_030665005.1	GenBank		Complete Genome	2744917	2776998	2023-08-07		PRJNA983092	SAMN36734083
+Enterococcus faecium		strain: E0019EM0028	1352	ASM3066502v1	GCA_030665025.1	GenBank		Complete Genome	2782341	2810272	2023-08-07		PRJNA983092	SAMN36734085
+Enterococcus faecium		strain: E0019EM0042	1352	ASM3066504v1	GCA_030665045.1	GenBank		Complete Genome	2939046	2999175	2023-08-07		PRJNA983092	SAMN36734607
+Enterococcus faecium		strain: E0019EM0021	1352	ASM3066506v1	GCA_030665065.1	GenBank		Complete Genome	2835578	2867946	2023-08-07		PRJNA983092	SAMN36734082
+Enterococcus faecium		strain: F0019EM0005	1352	ASM3066508v1	GCA_030665085.1	GenBank		Complete Genome	2888739	2957526	2023-08-07		PRJNA983092	SAMN36735062
+Enterococcus faecium		strain: F0019EM0004	1352	ASM3066510v1	GCA_030665105.1	GenBank		Complete Genome	2893261	2930297	2023-08-07		PRJNA983092	SAMN36735061
+Enterococcus faecium		strain: F0019EM0024	1352	ASM3066512v1	GCA_030665125.1	GenBank		Complete Genome	2942373	2974695	2023-08-07		PRJNA983092	SAMN36735493
+Enterococcus faecium		strain: F0019EM0020	1352	ASM3066514v1	GCA_030665145.1	GenBank		Complete Genome	2908524	2940884	2023-08-07		PRJNA983092	SAMN36735490
+Enterococcus faecium		strain: F0019EM0021	1352	ASM3066516v1	GCA_030665165.1	GenBank		Complete Genome	2771304	2802242	2023-08-07		PRJNA983092	SAMN36735492
+Enterococcus faecium		strain: F0019EM0026	1352	ASM3066518v1	GCA_030665185.1	GenBank		Complete Genome	2880964	2919152	2023-08-07		PRJNA983092	SAMN36735668
+Enterococcus faecium		strain: F0019EM0027	1352	ASM3066520v1	GCA_030665205.1	GenBank		Complete Genome	2869197	2901483	2023-08-07		PRJNA983092	SAMN36735720
+Enterococcus faecium		strain: F0019EM0032	1352	ASM3066522v1	GCA_030665225.1	GenBank		Complete Genome	2897324	2942547	2023-08-07		PRJNA983092	SAMN36735736
+Enterococcus faecium		strain: F0019EM0031	1352	ASM3066524v1	GCA_030665245.1	GenBank		Complete Genome	2892905	2925266	2023-08-07		PRJNA983092	SAMN36735723
+Enterococcus faecium		strain: F0019EM0033	1352	ASM3066526v1	GCA_030665265.1	GenBank		Complete Genome	2911308	2943630	2023-08-07		PRJNA983092	SAMN36735739
+Enterococcus faecium		strain: F0019EM0035	1352	ASM3066528v1	GCA_030665285.1	GenBank		Complete Genome	2792910	2824266	2023-08-07		PRJNA983092	SAMN36735770
+Enterococcus faecium		strain: F0019EM0037	1352	ASM3066530v1	GCA_030665305.1	GenBank		Complete Genome	2971861	3117341	2023-08-07		PRJNA983092	SAMN36736014
+Enterococcus faecium		strain: F0019EM0030	1352	ASM3066532v1	GCA_030665325.1	GenBank		Complete Genome	2789711	2821068	2023-08-07		PRJNA983092	SAMN36735722
+Enterococcus faecium		strain: F0019EM0039	1352	ASM3066534v1	GCA_030665345.1	GenBank		Complete Genome	2915930	2948320	2023-08-07		PRJNA983092	SAMN36736015
+Enterococcus faecium		strain: F0019EM0049	1352	ASM3066536v1	GCA_030665365.1	GenBank		Complete Genome	2857781	2983187	2023-08-07		PRJNA983092	SAMN36736061
+Enterococcus faecium		strain: F0019EM0056	1352	ASM3066538v1	GCA_030665385.1	GenBank		Complete Genome	2878778	3002382	2023-08-07		PRJNA983092	SAMN36736157
+Enterococcus faecium		strain: F0019EM0050	1352	ASM3066540v1	GCA_030665405.1	GenBank		Complete Genome	2803147	3014196	2023-08-07		PRJNA983092	SAMN36736064
+Enterococcus faecium		strain: G0019EM0003	1352	ASM3068559v1	GCA_030685595.1	GenBank		Complete Genome	2973961	2973961	2023-08-08		PRJNA983092	SAMN36759114
+Enterococcus faecium		strain: D0019EM0022	1352	ASM3068565v1	GCA_030685655.1	GenBank		Complete Genome	2936907	2978497	2023-08-08		PRJNA983092	SAMN36719504
+Enterococcus faecium		strain: G0019EM0011	1352	ASM3068567v1	GCA_030685675.1	GenBank		Complete Genome	2935605	2976174	2023-08-08		PRJNA983092	SAMN36759130
+Enterococcus faecium		strain: G0019EM0012	1352	ASM3068569v1	GCA_030685695.1	GenBank		Complete Genome	2932578	3213593	2023-08-08		PRJNA983092	SAMN36759137
+Enterococcus faecium		strain: G0019EM0023	1352	ASM3068571v1	GCA_030685715.1	GenBank		Complete Genome	2910077	2953415	2023-08-08		PRJNA983092	SAMN36759202
+Enterococcus faecium		strain: G0019EM0022	1352	ASM3068573v1	GCA_030685735.1	GenBank		Complete Genome	2848043	2980091	2023-08-08		PRJNA983092	SAMN36759180
+Enterococcus faecium		strain: H0019EM0007	1352	ASM3068575v1	GCA_030685755.1	GenBank		Complete Genome	2893423	2937372	2023-08-08		PRJNA983092	SAMN36760078
+Enterococcus faecium		strain: H0019EM0009	1352	ASM3068577v1	GCA_030685775.1	GenBank		Complete Genome	2877064	3006722	2023-08-08		PRJNA983092	SAMN36760079
+Enterococcus faecium		strain: H0019EM0003	1352	ASM3068579v1	GCA_030685795.1	GenBank		Complete Genome	2957472	3000952	2023-08-08		PRJNA983092	SAMN36760034
+Enterococcus faecium		strain: G0019EM0027	1352	ASM3068581v1	GCA_030685815.1	GenBank		Complete Genome	2797796	2920784	2023-08-08		PRJNA983092	SAMN36759472
+Enterococcus faecium		strain: H0019EM0006	1352	ASM3068583v1	GCA_030685835.1	GenBank		Complete Genome	2780798	2812635	2023-08-08		PRJNA983092	SAMN36760037
+Enterococcus faecium		strain: H0019EM0013	1352	ASM3068585v1	GCA_030685855.1	GenBank		Complete Genome	2888066	3023072	2023-08-08		PRJNA983092	SAMN36760080
+Enterococcus faecium		strain: G0019EM0001	1352	ASM3068587v1	GCA_030685875.1	GenBank		Complete Genome	2911629	2955930	2023-08-08		PRJNA983092	SAMN36759106
+Enterococcus faecium		strain: G0019EM0002	1352	ASM3068589v1	GCA_030685895.1	GenBank		Complete Genome	2913436	2980306	2023-08-08		PRJNA983092	SAMN36759107
+Enterococcus faecium		strain: G0019EM0008	1352	ASM3068591v1	GCA_030685915.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2847608	2927110	2023-08-08	2839	PRJNA983092	SAMN36759127
+Enterococcus faecium		strain: G0019EM0010	1352	ASM3068593v1	GCA_030685935.1	GenBank		Complete Genome	2933932	2974501	2023-08-08		PRJNA983092	SAMN36759128
+Enterococcus faecium		strain: G0019EM0019	1352	ASM3068595v1	GCA_030685955.1	GenBank		Complete Genome	2879471	3007440	2023-08-08		PRJNA983092	SAMN36759157
+Enterococcus faecium		strain: G0019EM0017	1352	ASM3068597v1	GCA_030685975.1	GenBank		Complete Genome	2908680	2952033	2023-08-08		PRJNA983092	SAMN36759156
+Enterococcus faecium		strain: G0019EM0006	1352	ASM3068599v1	GCA_030685995.1	GenBank		Complete Genome	2863560	2899049	2023-08-08		PRJNA983092	SAMN36759117
+Enterococcus faecium		strain: G0019EM0013	1352	ASM3068601v1	GCA_030686015.1	GenBank		Complete Genome	2933977	2974547	2023-08-08		PRJNA983092	SAMN36759150
+Enterococcus faecium		strain: G0019EM0015	1352	ASM3068603v1	GCA_030686035.1	GenBank		Complete Genome	2932608	2973112	2023-08-08		PRJNA983092	SAMN36759155
+Enterococcus faecium		strain: G0019EM0021	1352	ASM3068605v1	GCA_030686055.1	GenBank		Complete Genome	2707155	2837955	2023-08-08		PRJNA983092	SAMN36759179
+Enterococcus faecium		strain: H0019EM0021	1352	ASM3068607v1	GCA_030686075.1	GenBank		Complete Genome	2901760	2924583	2023-08-08		PRJNA983092	SAMN36760081
+Enterococcus faecium		strain: H0019EM0023	1352	ASM3068609v1	GCA_030686095.1	GenBank		Complete Genome	2944924	2988510	2023-08-08		PRJNA983092	SAMN36760082
+Enterococcus faecium		strain: TC64_3x4995_20_TV8	1352	ASM3071901v1	GCA_030719015.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2572234	2626934	2023-08-14	2567	PRJNA1002867	SAMN36865801
+Enterococcus faecium		strain: SU8419	1352	ASM3313008v1	GCA_033130085.1	GenBank	Annotation submitted by Department of Health and Medical Sciences, Shinshu University Graduate School of Medicine	Complete Genome	2894314	3094047	2023-06-24	3076	PRJDB16035	SAMD00623430
+Enterococcus faecium		strain: C10-7	1352	ASM3324698v1	GCA_033246985.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2454194	2705845	2023-11-02	2654	PRJNA1031971	SAMN37977521
+Enterococcus faecium		strain: AD21B	1352	ASM3324790v1	GCA_033247905.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2421017	2619096	2023-11-02	2551	PRJNA1031971	SAMN37977522
+Enterococcus faecium		strain: C20-2A	1352	ASM3324900v1	GCA_033249005.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2503319	2701186	2023-11-02	2655	PRJNA1031971	SAMN37977554
+Enterococcus faecium		strain: C4-1	1352	ASM3324972v1	GCA_033249725.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2467929	2745132	2023-11-02	2667	PRJNA1031971	SAMN37977555
+Enterococcus faecium		strain: HMC8C-1	1352	ASM3326010v1	GCA_033260105.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2436244	2696988	2023-11-02	2630	PRJNA1031971	SAMN37977590
+Enterococcus faecium		strain: AJ_C_05	1352	ASM3380268v1	GCA_033802685.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2623546	2799634	2023-11-19	2794	PRJNA1037610	SAMN38194472
+Enterococcus faecium		strain: HRH41	1352	ASM3464417v1	GCA_034644175.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2619216	2693873	2023-12-26	2688	PRJNA1049017	SAMN38673174
+Enterococcus faecium		strain: BN83	1352	ASM3592822v1	GCA_035928225.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2547265	2742329	2024-01-22	2701	PRJNA1064659	SAMN39438757
+Enterococcus faecium		strain: GB_C_05	1352	ASM3628729v1	GCA_036287295.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2575440	2805723	2024-01-28	2819	PRJNA1066497	SAMN39489522
+Enterococcus faecium		strain: SRR12	1352	ASM3701341v1	GCA_037013415.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2757047	2904178	2024-03-05	2873	PRJNA1013141	SAMN37298046
+Enterococcus faecium		strain: SRR12-v1	1352	ASM3701977v1	GCA_037019775.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2715704	2964279	2024-03-05	2938	PRJNA1013141	SAMN37287145
+Enterococcus faecium		strain: ND2	1352	ASM3732569v1	GCA_037325695.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2418465	2582439	2024-03-19	2512	PRJNA1086693	SAMN40409869
+Enterococcus faecium		strain: 2016C10-291	1352	ASM3843666v1	GCA_038436665.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2855417	3176325	2024-04-23	3133	PRJNA1000275	SAMN36766205
+Enterococcus faecium		strain: 2016N21-233	1352	ASM3843788v1	GCA_038437885.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2875106	3198172	2024-04-23	3181	PRJNA1000275	SAMN36766204
+Enterococcus faecium		strain: 2016C08-243	1352	ASM3843908v1	GCA_038439085.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2943999	3266308	2024-04-23	3267	PRJNA1000275	SAMN36766203
+Enterococcus faecium		strain: 2016N17-104	1352	ASM3844101v1	GCA_038441015.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2844496	3173327	2024-04-23	3127	PRJNA1000275	SAMN36766202
+Enterococcus faecium		strain: 2016C07-254	1352	ASM3844110v1	GCA_038441105.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2821969	3117753	2024-04-23	3034	PRJNA1000275	SAMN36766201
+Enterococcus faecium		strain: 2016S09-053	1352	ASM3844111v1	GCA_038441115.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2801859	3174886	2024-04-23	3165	PRJNA1000275	SAMN36766200
+Enterococcus faecium		strain: 2016S06-219	1352	ASM3844112v1	GCA_038441125.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2872463	3142746	2024-04-23	3133	PRJNA1000275	SAMN36766199
+Enterococcus faecium		strain: 2016C01-052	1352	ASM3844113v1	GCA_038441135.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2974033	3327463	2024-04-23	3312	PRJNA1000275	SAMN36766198
+Enterococcus faecium		strain: 2016S01-202	1352	ASM3844114v1	GCA_038441145.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2845749	3182089	2024-04-23	3165	PRJNA1000275	SAMN36766197
+Enterococcus faecium		strain: 2010C10-174	1352	ASM3844115v1	GCA_038441155.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2883631	3211428	2024-04-23	3227	PRJNA1000275	SAMN36766196
+Enterococcus faecium		strain: EF9953	1352	ASM3866511v1	GCA_038665115.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2915287	3259207	2024-04-28	3307	PRJNA1102835	SAMN41030363
+Enterococcus faecium		strain: PS03099	1352	ASM4008461v1	GCA_040084615.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2561368	2561368	2024-06-06	2541	PRJNA1037062	SAMN39321999
+Enterococcus faecium		strain: JARB-OU2402	1352	ASM4036738v1	GCA_040367385.1	GenBank	Annotation submitted by National Institute of Infectious Diseases	Complete Genome	2754558	3103765	2024-03-14	3126	PRJDB14951	SAMD00565616
+Enterococcus faecium		strain: JARB-OU2377	1352	ASM4036908v1	GCA_040369085.1	GenBank	Annotation submitted by National Institute of Infectious Diseases	Complete Genome	2751268	3146850	2024-03-14	3146	PRJDB14951	SAMD00565591
+Enterococcus faecium		strain: JARB-OU2352	1352	ASM4037218v1	GCA_040372185.1	GenBank	Annotation submitted by National Institute of Infectious Diseases	Complete Genome	2754504	3105137	2024-03-14	3106	PRJDB14951	SAMD00565567
+Enterococcus faecium		strain: ww_sludge_ent_V1_zoecandies_230529	1352	ASM4119941v1	GCA_041199415.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2567354	2813067	2024-08-10	2774	PRJNA1136403	SAMN42513259
+Enterococcus faecium		strain: F11.1G	1352	ASM4213466v1	GCA_042134665.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2706618	2909872	2024-09-21	2850	PRJNA1158201	SAMN43530940
+Enterococcus faecium		strain: NPLps07	1352	NPLwgs_01	GCA_042606975.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2685508	2705010	2024-05-15	2628	PRJNA880448	SAMN40150313
+Enterococcus faecium		strain: 2008300	1352	ASM4330200v1	GCA_043302005.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2877869	3130827	2024-10-17	3079	PRJNA573902	SAMN32615899
+Enterococcus faecium		strain: VRE237	1352	ASM4371226v1	GCA_043712265.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2841067	3111357	2024-10-24	3068	PRJNA874798	SAMN30571370
+Enterococcus faecium		strain: VRE235	1352	ASM4371227v1	GCA_043712275.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2830383	3055408	2024-10-24	2985	PRJNA874798	SAMN30571368
+Enterococcus faecium		strain: VRE236	1352	ASM4371228v1	GCA_043712285.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2948860	3045409	2024-10-24	2975	PRJNA874798	SAMN30571369
+Enterococcus faecium		strain: VRE233	1352	ASM4371291v1	GCA_043712915.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2814117	3123120	2024-10-24	3067	PRJNA874798	SAMN30571366
+Enterococcus faecium		strain: VRE234	1352	ASM4371292v1	GCA_043712925.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2953018	3272712	2024-10-24	3254	PRJNA874798	SAMN30571367
+Enterococcus faecium		strain: VRE232	1352	ASM4371303v1	GCA_043713035.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2916804	2961872	2024-10-24	2955	PRJNA874798	SAMN30571365
+Enterococcus faecium		strain: VRE231	1352	ASM4371352v1	GCA_043713525.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2774194	3167428	2024-10-24	3110	PRJNA874798	SAMN30571364
+Enterococcus faecium		strain: VRE230	1352	ASM4371353v1	GCA_043713535.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2781229	3131653	2024-10-24	3047	PRJNA874798	SAMN30571363
+Enterococcus faecium		strain: VRE229	1352	ASM4371366v1	GCA_043713665.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2874003	3240651	2024-10-24	3187	PRJNA874798	SAMN30571362
+Enterococcus faecium		strain: VRE228	1352	ASM4371417v1	GCA_043714175.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2801875	3155295	2024-10-24	3068	PRJNA874798	SAMN30571361
+Enterococcus faecium		strain: VRE227	1352	ASM4371418v1	GCA_043714185.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2839555	3106197	2024-10-24	3030	PRJNA874798	SAMN30571360
+Enterococcus faecium		strain: VRE224	1352	ASM4371429v1	GCA_043714295.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2852193	2966008	2024-10-24	2880	PRJNA874798	SAMN30571358
+Enterococcus faecium		strain: VRE223	1352	ASM4371482v1	GCA_043714825.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2824692	3144413	2024-10-24	3083	PRJNA874798	SAMN30571357
+Enterococcus faecium		strain: VRE222	1352	ASM4371483v1	GCA_043714835.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2875343	3231421	2024-10-24	3153	PRJNA874798	SAMN30571356
+Enterococcus faecium		strain: VRE221	1352	ASM4371500v1	GCA_043715005.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2760918	3077671	2024-10-24	3020	PRJNA874798	SAMN30571355
+Enterococcus faecium		strain: VRE220	1352	ASM4371537v1	GCA_043715375.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2855403	3144223	2024-10-24	3068	PRJNA874798	SAMN30571354
+Enterococcus faecium		strain: VRE219	1352	ASM4371538v1	GCA_043715385.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2854512	3175452	2024-10-24	3139	PRJNA874798	SAMN30571353
+Enterococcus faecium		strain: VRE218	1352	ASM4371555v1	GCA_043715555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2866978	3259341	2024-10-24	3248	PRJNA874798	SAMN30571352
+Enterococcus faecium		strain: VRE217	1352	ASM4371600v1	GCA_043716005.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2815131	3168926	2024-10-24	3146	PRJNA874798	SAMN30571351
+Enterococcus faecium		strain: VRE215	1352	ASM4371601v1	GCA_043716015.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2845516	3237325	2024-10-24	3191	PRJNA874798	SAMN30571349
+Enterococcus faecium		strain: VRE214	1352	ASM4371618v1	GCA_043716185.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2875092	3270636	2024-10-24	3268	PRJNA874798	SAMN30571348
+Enterococcus faecium		strain: VRE213	1352	ASM4371661v1	GCA_043716615.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2778968	3033688	2024-10-24	2979	PRJNA874798	SAMN30571347
+Enterococcus faecium		strain: VRE212	1352	ASM4371662v1	GCA_043716625.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2853309	3235728	2024-10-24	3227	PRJNA874798	SAMN30571346
+Enterococcus faecium		strain: VRE211	1352	ASM4371709v1	GCA_043717095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2819107	3089771	2024-10-24	3052	PRJNA874798	SAMN30571345
+Enterococcus faecium		strain: VRE210	1352	ASM4371921v1	GCA_043719215.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2858997	3118064	2024-10-24	3067	PRJNA874798	SAMN30571344
+Enterococcus faecium		strain: VRE209	1352	ASM4371931v1	GCA_043719315.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2838628	3187272	2024-10-24	3188	PRJNA874798	SAMN30571343
+Enterococcus faecium		strain: VRE208	1352	ASM4372002v1	GCA_043720025.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2938649	3313962	2024-10-24	3328	PRJNA874798	SAMN30571342
+Enterococcus faecium		strain: VRE207	1352	ASM4372205v1	GCA_043722055.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2841131	3105072	2024-10-24	3101	PRJNA874798	SAMN30571341
+Enterococcus faecium		strain: VRE206	1352	ASM4372214v1	GCA_043722145.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2921975	3354296	2024-10-24	3317	PRJNA874798	SAMN30571340
+Enterococcus faecium		strain: VRE205	1352	ASM4372283v1	GCA_043722835.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2891461	3294796	2024-10-24	3280	PRJNA874798	SAMN30571339
+Enterococcus faecium		strain: VRE204	1352	ASM4372538v1	GCA_043725385.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2824615	3153331	2024-10-24	3096	PRJNA874798	SAMN30571338
+Enterococcus faecium		strain: VRE203	1352	ASM4372549v1	GCA_043725495.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2793207	3063189	2024-10-24	2998	PRJNA874798	SAMN30571337
+Enterococcus faecium		strain: VRE202	1352	ASM4372632v1	GCA_043726325.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2893129	3248655	2024-10-24	3179	PRJNA874798	SAMN30571336
+Enterococcus faecium		strain: VRE201	1352	ASM4372871v1	GCA_043728715.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2854617	3153208	2024-10-24	3102	PRJNA874798	SAMN30571335
+Enterococcus faecium		strain: VRE199	1352	ASM4372882v1	GCA_043728825.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2827828	3157374	2024-10-24	3132	PRJNA874798	SAMN30571333
+Enterococcus faecium		strain: VRE197	1352	ASM4372959v1	GCA_043729595.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2900978	3198267	2024-10-24	3173	PRJNA874798	SAMN30571332
+Enterococcus faecium		strain: VRE196	1352	ASM4373210v1	GCA_043732105.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2844409	3276939	2024-10-24	3267	PRJNA874798	SAMN30571331
+Enterococcus faecium		strain: VRE195	1352	ASM4373213v1	GCA_043732135.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2840287	3090886	2024-10-24	3033	PRJNA874798	SAMN30571330
+Enterococcus faecium		strain: VRE194	1352	ASM4373288v1	GCA_043732885.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2851286	3051141	2024-10-24	2983	PRJNA874798	SAMN30571329
+Enterococcus faecium		strain: VRE193	1352	ASM4373520v1	GCA_043735205.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2814729	2952302	2024-10-24	2919	PRJNA874798	SAMN30571328
+Enterococcus faecium		strain: VRE192	1352	ASM4373531v1	GCA_043735315.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2868709	3262282	2024-10-24	3242	PRJNA874798	SAMN30571327
+Enterococcus faecium		strain: VRE191	1352	ASM4373590v1	GCA_043735905.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2826042	3155167	2024-10-24	3147	PRJNA874798	SAMN30571326
+Enterococcus faecium		strain: VRE190	1352	ASM4373767v1	GCA_043737675.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2837045	3128929	2024-10-24	3137	PRJNA874798	SAMN30571325
+Enterococcus faecium		strain: VRE188	1352	ASM4373772v1	GCA_043737725.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2792478	3108446	2024-10-24	3082	PRJNA874798	SAMN30571324
+Enterococcus faecium		strain: VRE187	1352	ASM4373833v1	GCA_043738335.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2871300	3274871	2024-10-24	3200	PRJNA874798	SAMN30571323
+Enterococcus faecium		strain: VRE186	1352	ASM4373968v1	GCA_043739685.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2866285	3213195	2024-10-24	3169	PRJNA874798	SAMN30571322
+Enterococcus faecium		strain: VRE185	1352	ASM4373973v1	GCA_043739735.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2968016	3319176	2024-10-24	3326	PRJNA874798	SAMN30571321
+Enterococcus faecium		strain: VRE184	1352	ASM4374028v1	GCA_043740285.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2844699	3150797	2024-10-24	3130	PRJNA874798	SAMN30571320
+Enterococcus faecium		strain: VRE183	1352	ASM4374171v1	GCA_043741715.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2830204	3264130	2024-10-24	3195	PRJNA874798	SAMN30571319
+Enterococcus faecium		strain: VRE182	1352	ASM4374172v1	GCA_043741725.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2831000	3085038	2024-10-24	2991	PRJNA874798	SAMN30571318
+Enterococcus faecium		strain: VRE181	1352	ASM4374185v1	GCA_043741855.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2941211	3353218	2024-10-24	3364	PRJNA874798	SAMN30571317
+Enterococcus faecium		strain: VRE180	1352	ASM4374294v1	GCA_043742945.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2894892	3244910	2024-10-24	3170	PRJNA874798	SAMN30571316
+Enterococcus faecium		strain: VRE179	1352	ASM4374299v1	GCA_043742995.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3013252	3368592	2024-10-24	3361	PRJNA874798	SAMN30571315
+Enterococcus faecium		strain: VRE177	1352	ASM4374326v1	GCA_043743265.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2830818	3107671	2024-10-24	3013	PRJNA874798	SAMN30571314
+Enterococcus faecium		strain: VRE176	1352	ASM4374391v1	GCA_043743915.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2847491	3131667	2024-10-24	3060	PRJNA874798	SAMN30571313
+Enterococcus faecium		strain: VRE175	1352	ASM4374396v1	GCA_043743965.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2798652	3105791	2024-10-24	3072	PRJNA874798	SAMN30571312
+Enterococcus faecium		strain: VRE174	1352	ASM4374433v1	GCA_043744335.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2980799	3181472	2024-10-24	3159	PRJNA874798	SAMN30571311
+Enterococcus faecium		strain: VRE173	1352	ASM4374513v1	GCA_043745135.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2756911	3058180	2024-10-24	2995	PRJNA874798	SAMN30571310
+Enterococcus faecium		strain: VRE172	1352	ASM4374516v1	GCA_043745165.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2819129	3124908	2024-10-24	3078	PRJNA874798	SAMN30571309
+Enterococcus faecium		strain: VRE171	1352	ASM4374531v1	GCA_043745315.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2491671	2834861	2024-10-24	2796	PRJNA874798	SAMN30571308
+Enterococcus faecium		strain: VRE170	1352	ASM4374719v1	GCA_043747195.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2822364	3141270	2024-10-24	3123	PRJNA874798	SAMN30571307
+Enterococcus faecium		strain: VRE169	1352	ASM4374726v1	GCA_043747265.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2840653	3201401	2024-10-24	3150	PRJNA874798	SAMN30571306
+Enterococcus faecium		strain: VRE168	1352	ASM4374780v1	GCA_043747805.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2857658	3248846	2024-10-24	3229	PRJNA874798	SAMN30571305
+Enterococcus faecium		strain: VRE164	1352	ASM4374906v1	GCA_043749065.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2852498	3219619	2024-10-24	3209	PRJNA874798	SAMN30571303
+Enterococcus faecium		strain: VRE163	1352	ASM4374907v1	GCA_043749075.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2834903	3070879	2024-10-24	3018	PRJNA874798	SAMN30571302
+Enterococcus faecium		strain: VRE162	1352	ASM4374956v1	GCA_043749565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2833359	3186936	2024-10-24	3190	PRJNA874798	SAMN30571301
+Enterococcus faecium		strain: VRE161	1352	ASM4375123v1	GCA_043751235.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2813588	3114045	2024-10-24	3054	PRJNA874798	SAMN30571300
+Enterococcus faecium		strain: VRE160	1352	ASM4375126v1	GCA_043751265.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2855822	3115066	2024-10-24	3045	PRJNA874798	SAMN30571299
+Enterococcus faecium		strain: VRE159	1352	ASM4375211v1	GCA_043752115.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2837654	3107572	2024-10-24	3045	PRJNA874798	SAMN30571298
+Enterococcus faecium		strain: VRE154	1352	ASM4375335v1	GCA_043753355.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2913429	3168935	2024-10-24	3082	PRJNA874798	SAMN30571293
+Enterococcus faecium		strain: VRE158	1352	ASM4375372v1	GCA_043753725.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2855540	3185584	2024-10-24	3171	PRJNA874798	SAMN30571297
+Enterococcus faecium		strain: VRE225	1352	ASM4377008v1	GCA_043770085.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2782651	3125303	2024-10-24	3106	PRJNA874798	SAMN30571359
+Enterococcus faecium		strain: VRE200	1352	ASM4377179v1	GCA_043771795.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2824193	3211883	2024-10-24	3188	PRJNA874798	SAMN30571334
+Enterococcus faecium		strain: VRE167	1352	ASM4377214v1	GCA_043772145.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2897377	3215657	2024-10-24	3221	PRJNA874798	SAMN30571304
+Enterococcus faecium		strain: VRE157	1352	ASM4377283v1	GCA_043772835.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2936843	3330581	2024-10-24	3300	PRJNA874798	SAMN30571296
+Enterococcus faecium		strain: VRE156	1352	ASM4377496v1	GCA_043774965.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2891208	3099516	2024-10-24	3035	PRJNA874798	SAMN30571295
+Enterococcus faecium		strain: VRE155	1352	ASM4377557v1	GCA_043775575.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2861692	3143925	2024-10-24	3134	PRJNA874798	SAMN30571294
+Enterococcus faecium		strain: VRE153	1352	ASM4377620v1	GCA_043776205.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2900143	3250137	2024-10-24	3244	PRJNA874798	SAMN30571292
+Enterococcus faecium		strain: VRE152	1352	ASM4377803v1	GCA_043778035.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2820145	3131160	2024-10-24	3118	PRJNA874798	SAMN30571291
+Enterococcus faecium		strain: VRE151	1352	ASM4377824v1	GCA_043778245.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2884711	3201007	2024-10-24	3200	PRJNA874798	SAMN30571290
+Enterococcus faecium		strain: VRE150	1352	ASM4377861v1	GCA_043778615.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2810329	3042048	2024-10-24	2977	PRJNA874798	SAMN30571289
+Enterococcus faecium		strain: VRE149	1352	ASM4377954v1	GCA_043779545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2767909	3183898	2024-10-24	3164	PRJNA874798	SAMN30571288
+Enterococcus faecium		strain: VRE148	1352	ASM4377983v1	GCA_043779835.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2796978	3153121	2024-10-24	3099	PRJNA874798	SAMN30571287
+Enterococcus faecium		strain: VRE147	1352	ASM4378014v1	GCA_043780145.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2922000	3278958	2024-10-24	3251	PRJNA874798	SAMN30571286
+Enterococcus faecium		strain: VRE146	1352	ASM4378215v1	GCA_043782155.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2923434	3283216	2024-10-24	3235	PRJNA874798	SAMN30571285
+Enterococcus faecium		strain: VRE145	1352	ASM4378256v1	GCA_043782565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2923868	3267807	2024-10-24	3213	PRJNA874798	SAMN30571284
+Enterococcus faecium		strain: VRE144	1352	ASM4378329v1	GCA_043783295.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2885069	3228328	2024-10-24	3241	PRJNA874798	SAMN30571283
+Enterococcus faecium		strain: VRE143	1352	ASM4378534v1	GCA_043785345.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2906380	3240683	2024-10-24	3298	PRJNA874798	SAMN30571282
+Enterococcus faecium		strain: VRE142	1352	ASM4378577v1	GCA_043785775.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2956108	3299778	2024-10-24	3277	PRJNA874798	SAMN30571281
+Enterococcus faecium		strain: VRE141	1352	ASM4378652v1	GCA_043786525.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2844395	3094792	2024-10-24	3052	PRJNA874798	SAMN30571280
+Enterococcus faecium		strain: VRE140	1352	ASM4378835v1	GCA_043788355.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2749293	3036465	2024-10-24	2958	PRJNA874798	SAMN30571279
+Enterococcus faecium		strain: VRE139	1352	ASM4378880v1	GCA_043788805.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3006678	3342234	2024-10-24	3360	PRJNA874798	SAMN30571278
+Enterococcus faecium		strain: VRE138	1352	ASM4378956v1	GCA_043789565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2929804	3277367	2024-10-24	3221	PRJNA874798	SAMN30571277
+Enterococcus faecium		strain: VRE137	1352	ASM4379104v1	GCA_043791045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2981631	3268664	2024-10-24	3291	PRJNA874798	SAMN30571276
+Enterococcus faecium		strain: VRE136	1352	ASM4379142v1	GCA_043791425.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2906756	3105440	2024-10-24	3071	PRJNA874798	SAMN30571275
+Enterococcus faecium		strain: VRE135	1352	ASM4379183v1	GCA_043791835.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2923397	3205307	2024-10-24	3221	PRJNA874798	SAMN30571274
+Enterococcus faecium		strain: VRE134	1352	ASM4379298v1	GCA_043792985.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2768872	3133866	2024-10-24	3090	PRJNA874798	SAMN30571273
+Enterococcus faecium		strain: VRE133	1352	ASM4379319v1	GCA_043793195.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2842929	3180206	2024-10-24	3165	PRJNA874798	SAMN30571272
+Enterococcus faecium		strain: VRE132	1352	ASM4379361v1	GCA_043793615.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2781953	3079656	2024-10-24	3042	PRJNA874798	SAMN30571271
+Enterococcus faecium		strain: VRE131	1352	ASM4379470v1	GCA_043794705.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2902243	3217865	2024-10-24	3248	PRJNA874798	SAMN30571270
+Enterococcus faecium		strain: VRE130	1352	ASM4379485v1	GCA_043794855.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2824238	3149226	2024-10-24	3146	PRJNA874798	SAMN30571269
+Enterococcus faecium		strain: VRE129	1352	ASM4379518v1	GCA_043795185.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2901298	3155316	2024-10-24	3092	PRJNA874798	SAMN30571268
+Enterococcus faecium		strain: VRE128	1352	ASM4379615v1	GCA_043796155.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2803654	3131966	2024-10-24	3107	PRJNA874798	SAMN30571267
+Enterococcus faecium		strain: VRE127	1352	ASM4379638v1	GCA_043796385.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2791053	3139655	2024-10-24	3109	PRJNA874798	SAMN30571266
+Enterococcus faecium		strain: VRE126	1352	ASM4379663v1	GCA_043796635.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2833687	3239390	2024-10-24	3230	PRJNA874798	SAMN30571265
+Enterococcus faecium		strain: VRE125	1352	ASM4379834v1	GCA_043798345.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2790291	3141763	2024-10-24	3151	PRJNA874798	SAMN30571264
+Enterococcus faecium		strain: VRE124	1352	ASM4379887v1	GCA_043798875.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2815208	3175069	2024-10-24	3142	PRJNA874798	SAMN30571263
+Enterococcus faecium		strain: VRE123	1352	ASM4379939v1	GCA_043799395.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2854581	3183535	2024-10-24	3172	PRJNA874798	SAMN30571262
+Enterococcus faecium		strain: VRE122	1352	ASM4380131v1	GCA_043801315.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2828038	3183408	2024-10-24	3177	PRJNA874798	SAMN30571261
+Enterococcus faecium		strain: VRE121	1352	ASM4380182v1	GCA_043801825.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2689878	3063507	2024-10-24	3021	PRJNA874798	SAMN30571260
+Enterococcus faecium		strain: VRE120	1352	ASM4380233v1	GCA_043802335.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2798181	3183366	2024-10-24	3151	PRJNA874798	SAMN30571259
+Enterococcus faecium		strain: VRE119	1352	ASM4380436v1	GCA_043804365.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2827148	3135288	2024-10-24	3087	PRJNA874798	SAMN30571258
+Enterococcus faecium		strain: VRE118	1352	ASM4380481v1	GCA_043804815.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2773357	3106108	2024-10-24	3036	PRJNA874798	SAMN30571257
+Enterococcus faecium		strain: VRE117	1352	ASM4380526v1	GCA_043805265.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2781216	3112958	2024-10-24	3043	PRJNA874798	SAMN30571256
+Enterococcus faecium		strain: VRE116	1352	ASM4380736v1	GCA_043807365.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2881400	3234198	2024-10-24	3225	PRJNA874798	SAMN30571255
+Enterococcus faecium		strain: VRE115	1352	ASM4380790v1	GCA_043807905.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2812078	3120099	2024-10-24	3063	PRJNA874798	SAMN30571254
+Enterococcus faecium		strain: VRE114	1352	ASM4380827v1	GCA_043808275.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2913726	3112220	2024-10-24	3092	PRJNA874798	SAMN30571253
+Enterococcus faecium		strain: VRE113	1352	ASM4381040v1	GCA_043810405.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2796306	3105969	2024-10-24	3069	PRJNA874798	SAMN30571252
+Enterococcus faecium		strain: VRE112	1352	ASM4381085v1	GCA_043810855.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2920356	3169030	2024-10-24	3155	PRJNA874798	SAMN30571251
+Enterococcus faecium		strain: VRE111	1352	ASM4381120v1	GCA_043811205.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2781510	3123195	2024-10-24	3096	PRJNA874798	SAMN30571250
+Enterococcus faecium		strain: VRE110	1352	ASM4381329v1	GCA_043813295.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2754973	3088080	2024-10-24	3041	PRJNA874798	SAMN30571249
+Enterococcus faecium		strain: VRE109	1352	ASM4381384v1	GCA_043813845.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2855117	3183686	2024-10-24	3189	PRJNA874798	SAMN30571248
+Enterococcus faecium		strain: VRE108	1352	ASM4381433v1	GCA_043814335.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2735486	3051432	2024-10-24	3020	PRJNA874798	SAMN30571247
+Enterococcus faecium		strain: VRE107	1352	ASM4381680v1	GCA_043816805.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2795279	3100051	2024-10-24	3057	PRJNA874798	SAMN30571246
+Enterococcus faecium		strain: VRE106	1352	ASM4381733v1	GCA_043817335.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2914109	3177066	2024-10-24	3165	PRJNA874798	SAMN30571245
+Enterococcus faecium		strain: VRE105	1352	ASM4381770v1	GCA_043817705.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2775049	3016905	2024-10-24	2944	PRJNA874798	SAMN30571244
+Enterococcus faecium		strain: VRE104	1352	ASM4381983v1	GCA_043819835.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2790605	3009139	2024-10-24	2963	PRJNA874798	SAMN30571243
+Enterococcus faecium		strain: VRE103	1352	ASM4382040v1	GCA_043820405.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2811314	3117328	2024-10-24	3075	PRJNA874798	SAMN30571242
+Enterococcus faecium		strain: VRE102	1352	ASM4382091v1	GCA_043820915.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2769389	3104221	2024-10-24	3045	PRJNA874798	SAMN30571241
+Enterococcus faecium		strain: VRE101	1352	ASM4382315v1	GCA_043823155.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2767511	3139721	2024-10-24	3085	PRJNA874798	SAMN30571240
+Enterococcus faecium		strain: VRE100	1352	ASM4382369v1	GCA_043823695.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2858987	3227063	2024-10-24	3220	PRJNA874798	SAMN30571239
+Enterococcus faecium		strain: VRE099	1352	ASM4382422v1	GCA_043824225.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2820389	3166505	2024-10-24	3173	PRJNA874798	SAMN30571238
+Enterococcus faecium		strain: VRE098	1352	ASM4382595v1	GCA_043825955.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2832902	3164237	2024-10-24	3131	PRJNA874798	SAMN30571237
+Enterococcus faecium		strain: VRE097	1352	ASM4382622v1	GCA_043826225.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2850578	3285940	2024-10-24	3294	PRJNA874798	SAMN30571236
+Enterococcus faecium		strain: VRE096	1352	ASM4382649v1	GCA_043826495.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2820236	3150660	2024-10-24	3161	PRJNA874798	SAMN30571235
+Enterococcus faecium		strain: VRE095	1352	ASM4382804v1	GCA_043828045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2803703	3143747	2024-10-24	3115	PRJNA874798	SAMN30571234
+Enterococcus faecium		strain: VRE094	1352	ASM4382827v1	GCA_043828275.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2790590	3143241	2024-10-24	3128	PRJNA874798	SAMN30571233
+Enterococcus faecium		strain: VRE092	1352	ASM4383015v1	GCA_043830155.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2793808	3202537	2024-10-24	3201	PRJNA874798	SAMN30571231
+Enterococcus faecium		strain: VRE091	1352	ASM4383042v1	GCA_043830425.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2882301	3200989	2024-10-24	3195	PRJNA874798	SAMN30571230
+Enterococcus faecium		strain: VRE090	1352	ASM4383067v1	GCA_043830675.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2914406	3193128	2024-10-24	3142	PRJNA874798	SAMN30571229
+Enterococcus faecium		strain: VRE089	1352	ASM4383256v1	GCA_043832565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2833822	3170276	2024-10-24	3165	PRJNA874798	SAMN30571228
+Enterococcus faecium		strain: VRE088	1352	ASM4383281v1	GCA_043832815.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2721857	3043092	2024-10-24	3011	PRJNA874798	SAMN30571227
+Enterococcus faecium		strain: VRE087	1352	ASM4383302v1	GCA_043833025.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2843493	3327768	2024-10-24	3353	PRJNA874798	SAMN30571226
+Enterococcus faecium		strain: VRE086	1352	ASM4383517v1	GCA_043835175.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2883167	3166738	2024-10-24	3088	PRJNA874798	SAMN30571225
+Enterococcus faecium		strain: VRE085	1352	ASM4383544v1	GCA_043835445.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2807802	3100705	2024-10-24	3068	PRJNA874798	SAMN30571224
+Enterococcus faecium		strain: VRE084	1352	ASM4383577v1	GCA_043835775.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2798078	3201917	2024-10-24	3205	PRJNA874798	SAMN30571223
+Enterococcus faecium		strain: VRE083	1352	ASM4383767v1	GCA_043837675.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2824365	3196919	2024-10-24	3135	PRJNA874798	SAMN30571222
+Enterococcus faecium		strain: VRE082	1352	ASM4383803v1	GCA_043838035.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2689315	3117045	2024-10-24	3066	PRJNA874798	SAMN30571221
+Enterococcus faecium		strain: VRE081	1352	ASM4383837v1	GCA_043838375.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2839148	3380916	2024-10-24	3364	PRJNA874798	SAMN30571220
+Enterococcus faecium		strain: VRE080	1352	ASM4384007v1	GCA_043840075.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2807259	3331972	2024-10-24	3351	PRJNA874798	SAMN30571219
+Enterococcus faecium		strain: VRE079	1352	ASM4384032v1	GCA_043840325.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2760230	3141041	2024-10-24	3104	PRJNA874798	SAMN30571218
+Enterococcus faecium		strain: VRE078	1352	ASM4384065v1	GCA_043840655.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2756898	3196553	2024-10-24	3165	PRJNA874798	SAMN30571217
+Enterococcus faecium		strain: VRE077	1352	ASM4384204v1	GCA_043842045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2825278	3169107	2024-10-24	3147	PRJNA874798	SAMN30571216
+Enterococcus faecium		strain: VRE076	1352	ASM4384225v1	GCA_043842255.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2779793	3133965	2024-10-24	3087	PRJNA874798	SAMN30571215
+Enterococcus faecium		strain: VRE075	1352	ASM4384262v1	GCA_043842625.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2873006	3223505	2024-10-24	3227	PRJNA874798	SAMN30571214
+Enterococcus faecium		strain: VRE074	1352	ASM4384439v1	GCA_043844395.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2887295	3220010	2024-10-24	3199	PRJNA874798	SAMN30571213
+Enterococcus faecium		strain: VRE073	1352	ASM4384464v1	GCA_043844645.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2835503	3206761	2024-10-24	3178	PRJNA874798	SAMN30571212
+Enterococcus faecium		strain: VRE072	1352	ASM4384495v1	GCA_043844955.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2781871	3163757	2024-10-24	3096	PRJNA874798	SAMN30571211
+Enterococcus faecium		strain: VRE071	1352	ASM4384644v1	GCA_043846445.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2902751	3211521	2024-10-24	3194	PRJNA874798	SAMN30571210
+Enterococcus faecium		strain: VRE070	1352	ASM4384668v1	GCA_043846685.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2813605	3047461	2024-10-24	3022	PRJNA874798	SAMN30571209
+Enterococcus faecium		strain: VRE069	1352	ASM4384714v1	GCA_043847145.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2782456	3110771	2024-10-24	3079	PRJNA874798	SAMN30571208
+Enterococcus faecium		strain: VRE068	1352	ASM4384888v1	GCA_043848885.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2775905	3107478	2024-10-24	3040	PRJNA874798	SAMN30571207
+Enterococcus faecium		strain: VRE067	1352	ASM4384901v1	GCA_043849015.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2903022	3206097	2024-10-24	3128	PRJNA874798	SAMN30571206
+Enterococcus faecium		strain: VRE066	1352	ASM4384929v1	GCA_043849295.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2702906	3058316	2024-10-24	3033	PRJNA874798	SAMN30571205
+Enterococcus faecium		strain: VRE065	1352	ASM4384972v1	GCA_043849725.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2999388	3120341	2024-10-24	3078	PRJNA874798	SAMN30571204
+Enterococcus faecium		strain: VRE064	1352	ASM4384999v1	GCA_043849995.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2813748	3169466	2024-10-24	3167	PRJNA874798	SAMN30571203
+Enterococcus faecium		strain: VRE063	1352	ASM4385008v1	GCA_043850085.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2779227	3136443	2024-10-24	3122	PRJNA874798	SAMN30571202
+Enterococcus faecium		strain: VRE062	1352	ASM4385139v1	GCA_043851395.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2753935	3099122	2024-10-24	3102	PRJNA874798	SAMN30571201
+Enterococcus faecium		strain: VRE061	1352	ASM4385172v1	GCA_043851725.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2852227	3226090	2024-10-24	3203	PRJNA874798	SAMN30571200
+Enterococcus faecium		strain: VRE060	1352	ASM4385205v1	GCA_043852055.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2838569	3265596	2024-10-24	3244	PRJNA874798	SAMN30571199
+Enterococcus faecium		strain: VRE059	1352	ASM4385404v1	GCA_043854045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2871800	3136895	2024-10-24	3109	PRJNA874798	SAMN30571198
+Enterococcus faecium		strain: VRE058	1352	ASM4385447v1	GCA_043854475.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2783472	3130330	2024-10-24	3061	PRJNA874798	SAMN30571197
+Enterococcus faecium		strain: VRE057	1352	ASM4385484v1	GCA_043854845.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2799197	3108283	2024-10-24	3084	PRJNA874798	SAMN30571196
+Enterococcus faecium		strain: VRE056	1352	ASM4385693v1	GCA_043856935.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2813449	3143444	2024-10-24	3113	PRJNA874798	SAMN30571195
+Enterococcus faecium		strain: VRE055	1352	ASM4385736v1	GCA_043857365.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2838378	3175222	2024-10-24	3166	PRJNA874798	SAMN30571194
+Enterococcus faecium		strain: VRE054	1352	ASM4385771v1	GCA_043857715.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2813029	3172177	2024-10-24	3159	PRJNA874798	SAMN30571193
+Enterococcus faecium		strain: VRE053	1352	ASM4385924v1	GCA_043859245.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2863151	3203252	2024-10-24	3200	PRJNA874798	SAMN30571192
+Enterococcus faecium		strain: VRE052	1352	ASM4385925v1	GCA_043859255.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2801677	3119667	2024-10-24	3115	PRJNA874798	SAMN30571191
+Enterococcus faecium		strain: VRE051	1352	ASM4385942v1	GCA_043859425.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2813504	3161798	2024-10-24	3138	PRJNA874798	SAMN30571190
+Enterococcus faecium		strain: VRE050	1352	ASM4386212v1	GCA_043862125.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2864520	3188323	2024-10-24	3133	PRJNA874798	SAMN30571189
+Enterococcus faecium		strain: VRE049	1352	ASM4386214v1	GCA_043862145.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2716092	3047580	2024-10-24	3012	PRJNA874798	SAMN30571188
+Enterococcus faecium		strain: VRE048	1352	ASM4386219v1	GCA_043862195.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2819288	3143646	2024-10-24	3117	PRJNA874798	SAMN30571187
+Enterococcus faecium		strain: VRE047	1352	ASM4386342v1	GCA_043863425.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2833988	3274273	2024-10-24	3251	PRJNA874798	SAMN30571186
+Enterococcus faecium		strain: VRE046	1352	ASM4386343v1	GCA_043863435.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2747644	3050044	2024-10-24	2991	PRJNA874798	SAMN30571185
+Enterococcus faecium		strain: VRE045	1352	ASM4386346v1	GCA_043863465.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2826181	3218386	2024-10-24	3206	PRJNA874798	SAMN30571184
+Enterococcus faecium		strain: VRE044	1352	ASM4386407v1	GCA_043864075.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2750410	3130993	2024-10-24	3125	PRJNA874798	SAMN30571183
+Enterococcus faecium		strain: VRE043	1352	ASM4386412v1	GCA_043864125.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2886893	3174127	2024-10-24	3148	PRJNA874798	SAMN30571182
+Enterococcus faecium		strain: VRE042	1352	ASM4386419v1	GCA_043864195.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2851989	3155119	2024-10-24	3142	PRJNA874798	SAMN30571181
+Enterococcus faecium		strain: VRE041	1352	ASM4386478v1	GCA_043864785.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2662582	3014793	2024-10-24	2965	PRJNA874798	SAMN30571180
+Enterococcus faecium		strain: VRE040	1352	ASM4386485v1	GCA_043864855.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2730590	3067538	2024-10-24	3063	PRJNA874798	SAMN30571179
+Enterococcus faecium		strain: VRE039	1352	ASM4386494v1	GCA_043864945.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2719262	3120853	2024-10-24	3101	PRJNA874798	SAMN30571178
+Enterococcus faecium		strain: VRE038	1352	ASM4386545v1	GCA_043865455.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2823118	3193409	2024-10-24	3174	PRJNA874798	SAMN30571177
+Enterococcus faecium		strain: VRE037	1352	ASM4386552v1	GCA_043865525.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2814562	3161209	2024-10-24	3152	PRJNA874798	SAMN30571176
+Enterococcus faecium		strain: VRE036	1352	ASM4386555v1	GCA_043865555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2675142	2995314	2024-10-24	2941	PRJNA874798	SAMN30571175
+Enterococcus faecium		strain: VRE035	1352	ASM4386612v1	GCA_043866125.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2812152	3164712	2024-10-24	3148	PRJNA874798	SAMN30571174
+Enterococcus faecium		strain: VRE034	1352	ASM4386617v1	GCA_043866175.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2824203	3081785	2024-10-24	3068	PRJNA874798	SAMN30571173
+Enterococcus faecium		strain: VRE033	1352	ASM4386624v1	GCA_043866245.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2776736	3117236	2024-10-24	3063	PRJNA874798	SAMN30571172
+Enterococcus faecium		strain: VRE032	1352	ASM4386697v1	GCA_043866975.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2840638	3028630	2024-10-24	3010	PRJNA874798	SAMN30571171
+Enterococcus faecium		strain: VRE031	1352	ASM4386698v1	GCA_043866985.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2836883	3153121	2024-10-24	3132	PRJNA874798	SAMN30571170
+Enterococcus faecium		strain: VRE030	1352	ASM4386699v1	GCA_043866995.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2779423	3104668	2024-10-24	3069	PRJNA874798	SAMN30571169
+Enterococcus faecium		strain: VRE029	1352	ASM4386762v1	GCA_043867625.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2834622	3163029	2024-10-24	3150	PRJNA874798	SAMN30571168
+Enterococcus faecium		strain: VRE028	1352	ASM4386765v1	GCA_043867655.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2741636	3131108	2024-10-24	3141	PRJNA874798	SAMN30571167
+Enterococcus faecium		strain: VRE027	1352	ASM4386768v1	GCA_043867685.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2743101	3091260	2024-10-24	3082	PRJNA874798	SAMN30571166
+Enterococcus faecium		strain: VRE026	1352	ASM4386837v1	GCA_043868375.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2804687	3153629	2024-10-24	3104	PRJNA874798	SAMN30571165
+Enterococcus faecium		strain: VRE025	1352	ASM4386840v1	GCA_043868405.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2870127	3310965	2024-10-24	3294	PRJNA874798	SAMN30571164
+Enterococcus faecium		strain: VRE024	1352	ASM4386841v1	GCA_043868415.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2770092	3135247	2024-10-24	3085	PRJNA874798	SAMN30571163
+Enterococcus faecium		strain: VRE023	1352	ASM4386908v1	GCA_043869085.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2768444	3144180	2024-10-24	3098	PRJNA874798	SAMN30571162
+Enterococcus faecium		strain: VRE022	1352	ASM4386909v1	GCA_043869095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2611287	3045401	2024-10-24	3017	PRJNA874798	SAMN30571161
+Enterococcus faecium		strain: VRE021	1352	ASM4386912v1	GCA_043869125.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2805909	3174334	2024-10-24	3130	PRJNA874798	SAMN30571160
+Enterococcus faecium		strain: VRE020	1352	ASM4386975v1	GCA_043869755.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2847781	3271241	2024-10-24	3261	PRJNA874798	SAMN30571159
+Enterococcus faecium		strain: VRE018	1352	ASM4386978v1	GCA_043869785.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2826199	3118386	2024-10-24	3055	PRJNA874798	SAMN30571157
+Enterococcus faecium		strain: VRE017	1352	ASM4386983v1	GCA_043869835.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2713359	3095474	2024-10-24	3042	PRJNA874798	SAMN30571156
+Enterococcus faecium		strain: VRE015	1352	ASM4387050v1	GCA_043870505.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2923531	3279904	2024-10-24	3293	PRJNA874798	SAMN30571154
+Enterococcus faecium		strain: VRE014	1352	ASM4387051v1	GCA_043870515.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2840456	3130954	2024-10-24	3108	PRJNA874798	SAMN30571153
+Enterococcus faecium		strain: VRE013	1352	ASM4387052v1	GCA_043870525.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2841519	3132026	2024-10-24	3099	PRJNA874798	SAMN30571152
+Enterococcus faecium		strain: VRE012	1352	ASM4387117v1	GCA_043871175.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2943111	3361314	2024-10-24	3370	PRJNA874798	SAMN30571151
+Enterococcus faecium		strain: VRE011	1352	ASM4387118v1	GCA_043871185.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2832867	3097556	2024-10-24	3063	PRJNA874798	SAMN30571150
+Enterococcus faecium		strain: VRE010	1352	ASM4387119v1	GCA_043871195.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2855442	3176361	2024-10-24	3137	PRJNA874798	SAMN30571149
+Enterococcus faecium		strain: VRE009	1352	ASM4387188v1	GCA_043871885.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2875127	3195279	2024-10-24	3181	PRJNA874798	SAMN30571148
+Enterococcus faecium		strain: VRE008	1352	ASM4387189v1	GCA_043871895.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2943997	3266316	2024-10-24	3264	PRJNA874798	SAMN30571147
+Enterococcus faecium		strain: VRE007	1352	ASM4387190v1	GCA_043871905.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2844515	3183032	2024-10-24	3140	PRJNA874798	SAMN30571146
+Enterococcus faecium		strain: VRE006	1352	ASM4387255v1	GCA_043872555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2821970	3117770	2024-10-24	3052	PRJNA874798	SAMN30571145
+Enterococcus faecium		strain: VRE005	1352	ASM4387256v1	GCA_043872565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2801866	3174909	2024-10-24	3168	PRJNA874798	SAMN30571144
+Enterococcus faecium		strain: VRE004	1352	ASM4387257v1	GCA_043872575.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2872494	3142793	2024-10-24	3133	PRJNA874798	SAMN30571143
+Enterococcus faecium		strain: VRE003	1352	ASM4387320v1	GCA_043873205.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2813705	3145933	2024-10-24	3122	PRJNA874798	SAMN30571142
+Enterococcus faecium		strain: VRE002	1352	ASM4387321v1	GCA_043873215.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2845784	3182240	2024-10-24	3183	PRJNA874798	SAMN30571141
+Enterococcus faecium		strain: VRE001	1352	ASM4387322v1	GCA_043873225.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2883636	3211456	2024-10-24	3227	PRJNA874798	SAMN30571140
+Enterococcus faecium		strain: VRE016	1352	ASM4387379v1	GCA_043873795.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2852160	3291055	2024-10-25	3321	PRJNA874798	SAMN30571155
+Enterococcus faecium		strain: 2001564	1352	ASM4516000v1	GCA_045160005.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2755276	3103779	2024-04-17	3072	PRJNA573902	SAMN22929416
+Enterococcus faecium		strain: VRE093	1352	ASM4527706v1	GCA_045277065.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2856012	3146417	2024-10-24	3121	PRJNA874798	SAMN30571232
+Enterococcus faecium		strain: E4	1352	ASM4527792v1	GCA_045277925.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2785439	3037217	2024-10-08	2999	PRJNA980403	SAMN35628878
+Enterococcus faecium		strain: MS6	1352	ASM4534789v1	GCA_045347895.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2560456	2745135	2024-11-26	2683	PRJNA1187293	SAMN44789122
+Enterococcus faecium		strain: EfmR138	1352	ASM4568967v1	GCA_045689675.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2895267	2895267	2024-01-24	2838	PRJNA1058264	SAMN39171900
+Enterococcus faecium		strain: EF	1352	ASM4578269v1	GCA_045782695.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2724342	2803203	2024-12-06	2716	PRJNA970506	SAMN35004121
+Enterococcus faecium		strain: C1151	1352	C1151	GCA_045923915.1	GenBank		Complete Genome	2753817	3145209	2024-12-10		PRJNA1055432	SAMN38999338
+Enterococcus faecium		strain: C1299	1352	C1299	GCA_045924105.1	GenBank		Complete Genome	2533916	2790004	2024-12-10		PRJNA1055432	SAMN38999337
+Enterococcus faecium		strain: C1293	1352	C1293	GCA_045924155.1	GenBank		Complete Genome	2533745	2848052	2024-12-10		PRJNA1055432	SAMN38999328
+Enterococcus faecium		strain: ES	1352	ASM4610179v1	GCA_046101795.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2561460	2738478	2024-12-16	2696	PRJNA1190995	SAMN45066674
+Enterococcus faecium		strain: CCP466	1352	ASM4611919v1	GCA_046119195.1	GenBank		Complete Genome	2789834	3167090	2024-12-17		PRJNA1168715	SAMN44056316
+Enterococcus faecium		strain: CCP465	1352	ASM4611920v1	GCA_046119205.1	GenBank		Complete Genome	2684280	3093266	2024-12-17		PRJNA1168715	SAMN44056315
+Enterococcus faecium		strain: CCP464	1352	ASM4611921v1	GCA_046119215.1	GenBank		Complete Genome	2693591	3101710	2024-12-17		PRJNA1168715	SAMN44056314
+Enterococcus faecium		strain: CCP463	1352	ASM4611922v1	GCA_046119225.1	GenBank		Complete Genome	2690854	3147938	2024-12-17		PRJNA1168715	SAMN44056313
+Enterococcus faecium		strain: CCP462	1352	ASM4611923v1	GCA_046119235.1	GenBank		Complete Genome	2689333	3095695	2024-12-17		PRJNA1168715	SAMN44056312
+Enterococcus faecium		strain: CCP461	1352	ASM4611924v1	GCA_046119245.1	GenBank		Complete Genome	2754883	3146199	2024-12-17		PRJNA1168715	SAMN44056311
+Enterococcus faecium		strain: aus0233	1352	Ef_aus0233_delta_tetM	GCA_046197065.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2885794	3288144	2024-12-18	3284	PRJNA1196086	SAMN45309631
+Enterococcus faecium		strain: ER05822.7	1352	ASM4684588v1	GCA_046845885.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2928262	3261215	2025-01-21	3270	PRJNA470993	SAMN35640697
+Enterococcus faecium		strain: ER05779.6	1352	ASM4684589v1	GCA_046845895.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2928279	3220710	2025-01-21	3223	PRJNA470993	SAMN35640696
+Enterococcus faecium		strain: ER05745.5	1352	ASM4684590v1	GCA_046845905.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2928279	3226225	2025-01-21	3232	PRJNA470993	SAMN35640695
+Enterococcus faecium		strain: ER05732.7	1352	ASM4684591v1	GCA_046845915.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2911255	3242866	2025-01-21	3259	PRJNA470993	SAMN35640694
+Enterococcus faecium		strain: ER05732.6	1352	ASM4684592v1	GCA_046845925.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2928281	3220656	2025-01-21	3231	PRJNA470993	SAMN35640693
+Enterococcus faecium		strain: ER03985.7	1352	ASM4684593v1	GCA_046845935.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2865651	3086821	2025-01-21	3042	PRJNA470993	SAMN35640689
+Enterococcus faecium		strain: ER03811.6	1352	ASM4684594v1	GCA_046845945.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2894096	3181716	2025-01-21	3167	PRJNA470993	SAMN35640688
+Enterococcus faecium		strain: RX-23	1352	ASM4938965v1	GCA_049389655.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2618739	2837078	2025-04-09	2777	PRJNA1086269	SAMN40372622
+Enterococcus faecium		strain: BY	1352	ASM5015509v1	GCA_050155095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2822304	3093501	2025-05-05	3108	PRJNA1253582	SAMN48080049
+Enterococcus faecium		strain: RY7682	1352	Efm_RY7682	GCA_050320245.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2820455	3093064	2025-05-12	3073	PRJNA978117	SAMN48324061
+Enterococcus faecium		strain: H818	1352	ASM5047054v1	GCA_050470545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2704164	3001746	2025-05-20	2980	PRJNA1185791	SAMN44727058
+Enterococcus faecium		strain: H817	1352	ASM5047055v1	GCA_050470555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2794654	2961212	2025-05-20	2929	PRJNA1185791	SAMN44727057
+Enterococcus faecium		strain: H806	1352	ASM5047111v1	GCA_050471115.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2655427	2899388	2025-05-20	2861	PRJNA1185791	SAMN44727055
+Enterococcus faecium		strain: H788	1352	ASM5047168v1	GCA_050471685.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2664331	3052420	2025-05-20	3050	PRJNA1185791	SAMN44727054
+Enterococcus faecium		strain: C5749	1352	ASM5047169v1	GCA_050471695.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2953960	3259277	2025-05-20	3231	PRJNA1185791	SAMN44727053
+Enterococcus faecium		strain: C5735	1352	ASM5047216v1	GCA_050472165.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2960273	3262584	2025-05-20	3257	PRJNA1185791	SAMN44727052
+Enterococcus faecium		strain: C5729	1352	ASM5047219v1	GCA_050472195.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2848314	3212261	2025-05-20	3181	PRJNA1185791	SAMN44727051
+Enterococcus faecium		strain: C1478	1352	ASM5047391v1	GCA_050473915.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2825462	3123495	2025-05-20	3085	PRJNA1185791	SAMN44727045
+Enterococcus faecium		strain: C1470	1352	ASM5047500v1	GCA_050475005.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2935323	3242365	2025-05-20	3215	PRJNA1185791	SAMN44727042
+Enterococcus faecium		strain: C1444	1352	ASM5047501v1	GCA_050475015.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2787902	3016218	2025-05-20	2995	PRJNA1185791	SAMN44727041
+Enterococcus faecium		strain: C0456	1352	ASM5047609v1	GCA_050476095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2872291	3178906	2025-05-20	3171	PRJNA1185791	SAMN44727036
+Enterococcus faecium		strain: C0440	1352	ASM5047664v1	GCA_050476645.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3021087	3237581	2025-05-20	3254	PRJNA1185791	SAMN44727034
+Enterococcus faecium		strain: C0442	1352	ASM5047665v1	GCA_050476655.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2791931	3069934	2025-05-20	3036	PRJNA1185791	SAMN44727035
+Enterococcus faecium		strain: C0399	1352	ASM5047720v1	GCA_050477205.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2536602	2718148	2025-05-20	2657	PRJNA1185791	SAMN44727033
+Enterococcus faecium		strain: C0396	1352	ASM5047721v1	GCA_050477215.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2635087	2819394	2025-05-20	2776	PRJNA1185791	SAMN44727032
+Enterococcus faecium		strain: C2175	1352	ASM5047777v1	GCA_050477775.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2896679	3159426	2025-05-20	3146	PRJNA1185791	SAMN44727030
+Enterococcus faecium		strain: C2174	1352	ASM5047830v1	GCA_050478305.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2892980	3155749	2025-05-20	3142	PRJNA1185791	SAMN44727029
+Enterococcus faecium		strain: C2164	1352	ASM5047831v1	GCA_050478315.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2966870	3076582	2025-05-20	3030	PRJNA1185791	SAMN44727028
+Enterococcus faecium		strain: C2163	1352	ASM5047882v1	GCA_050478825.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2962258	3072459	2025-05-20	3028	PRJNA1185791	SAMN44727027
+Enterococcus faecium		strain: C2162	1352	ASM5047883v1	GCA_050478835.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2965536	3075815	2025-05-20	3030	PRJNA1185791	SAMN44727026
+Enterococcus faecium		strain: C8833	1352	ASM5047936v1	GCA_050479365.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2862123	3104405	2025-05-20	3111	PRJNA1185791	SAMN44727025
+Enterococcus faecium		strain: C8829	1352	ASM5047937v1	GCA_050479375.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2862479	3132922	2025-05-20	3144	PRJNA1185791	SAMN44727024
+Enterococcus faecium		strain: C8826	1352	ASM5047996v1	GCA_050479965.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2860589	3132794	2025-05-20	3145	PRJNA1185791	SAMN44727023
+Enterococcus faecium		strain: C8820	1352	ASM5047997v1	GCA_050479975.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2862110	3134282	2025-05-20	3148	PRJNA1185791	SAMN44727022
+Enterococcus faecium		strain: C8812	1352	ASM5048048v1	GCA_050480485.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2860590	3132738	2025-05-20	3146	PRJNA1185791	SAMN44727021
+Enterococcus faecium		strain: C1220	1352	ASM5048227v1	GCA_050482275.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2829189	3161733	2025-05-20	3134	PRJNA1185791	SAMN44727014
+Enterococcus faecium		strain: C1217	1352	ASM5048284v1	GCA_050482845.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2783672	3089996	2025-05-20	3054	PRJNA1185791	SAMN44727012
+Enterococcus faecium		strain: C8832	1352	ASM5048338v1	GCA_050483385.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2884481	3154193	2025-05-20	3166	PRJNA1185791	SAMN44727011
+Enterococcus faecium		strain: C8831	1352	ASM5048339v1	GCA_050483395.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2883233	3152945	2025-05-20	3159	PRJNA1185791	SAMN44727010
+Enterococcus faecium		strain: C1233	1352	ASM5048394v1	GCA_050483945.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2845645	3255574	2025-05-20	3256	PRJNA1185791	SAMN44727009
+Enterococcus faecium		strain: C1222	1352	ASM5048395v1	GCA_050483955.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2896213	3154723	2025-05-20	3146	PRJNA1185791	SAMN44727008
+Enterococcus faecium		strain: C1209	1352	ASM5048450v1	GCA_050484505.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3028819	3261632	2025-05-20	3288	PRJNA1185791	SAMN44727006
+Enterococcus faecium		strain: C2167	1352	ASM5048614v1	GCA_050486145.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2899052	3183933	2025-05-20	3202	PRJNA1185791	SAMN44727001
+Enterococcus faecium		strain: C2159	1352	ASM5048615v1	GCA_050486155.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2895128	3175027	2025-05-20	3193	PRJNA1185791	SAMN44727000
+Enterococcus faecium		strain: C6103	1352	ASM5048726v1	GCA_050487265.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2873528	3152179	2025-05-20	3156	PRJNA1185791	SAMN44726997
+Enterococcus faecium		strain: C6101	1352	ASM5048727v1	GCA_050487275.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2848948	3208361	2025-05-20	3205	PRJNA1185791	SAMN44726996
+Enterococcus faecium		strain: C6102	1352	ASM5048764v1	GCA_050487645.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2873493	3155344	2025-05-20	3161	PRJNA1185791	SAMN44726995
+Enterococcus faecium		strain: C6100	1352	ASM5048765v1	GCA_050487655.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2882549	3161201	2025-05-20	3169	PRJNA1185791	SAMN44726994
+Enterococcus faecium		strain: C6099	1352	ASM5048808v1	GCA_050488085.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2974301	3271165	2025-05-20	3300	PRJNA1185791	SAMN44726993
+Enterococcus faecium		strain: C6098	1352	ASM5048809v1	GCA_050488095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2974297	3270069	2025-05-20	3301	PRJNA1185791	SAMN44726992
+Enterococcus faecium		strain: C6097	1352	ASM5048852v1	GCA_050488525.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2972775	3263652	2025-05-20	3295	PRJNA1185791	SAMN44726991
+Enterococcus faecium		strain: C6095	1352	ASM5048855v1	GCA_050488555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2973484	3267568	2025-05-20	3303	PRJNA1185791	SAMN44726990
+Enterococcus faecium		strain: C6088	1352	ASM5048900v1	GCA_050489005.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3041687	3328502	2025-05-20	3331	PRJNA1185791	SAMN44726989
+Enterococcus faecium		strain: C6087	1352	ASM5048901v1	GCA_050489015.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3056907	3456327	2025-05-20	3491	PRJNA1185791	SAMN44726988
+Enterococcus faecium		strain: C6084	1352	ASM5048953v1	GCA_050489535.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3012930	3204007	2025-05-20	3212	PRJNA1185791	SAMN44726985
+Enterococcus faecium		strain: C6083	1352	ASM5048954v1	GCA_050489545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2847414	3121556	2025-05-20	3108	PRJNA1185791	SAMN44726984
+Enterococcus faecium		strain: C6079	1352	ASM5049003v1	GCA_050490035.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2868422	3224620	2025-05-20	3211	PRJNA1185791	SAMN44726983
+Enterococcus faecium		strain: C6078	1352	ASM5049004v1	GCA_050490045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2868426	3224625	2025-05-20	3219	PRJNA1185791	SAMN44726982
+Enterococcus faecium		strain: C6077	1352	ASM5049067v1	GCA_050490675.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2869756	3225956	2025-05-20	3223	PRJNA1185791	SAMN44726981
+Enterococcus faecium		strain: C5722	1352	ASM5049068v1	GCA_050490685.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2743569	3047436	2025-05-20	3027	PRJNA1185791	SAMN44727067
+Enterococcus faecium		strain: C5719	1352	ASM5049129v1	GCA_050491295.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2745773	3052749	2025-05-20	3029	PRJNA1185791	SAMN44727066
+Enterococcus faecium		strain: C5720	1352	ASM5049130v1	GCA_050491305.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2745773	3055168	2025-05-20	3031	PRJNA1185791	SAMN44727065
+Enterococcus faecium		strain: H826	1352	ASM5049272v1	GCA_050492725.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2984128	3210499	2025-05-20	3186	PRJNA1185791	SAMN44727060
+Enterococcus faecium		strain: C6086	1352	ASM5049273v1	GCA_050492735.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3057791	3456686	2025-05-20	3491	PRJNA1185791	SAMN44726987
+Enterococcus faecium		strain: C6085	1352	ASM5049308v1	GCA_050493085.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3053224	3359805	2025-05-20	3390	PRJNA1185791	SAMN44726986
+Enterococcus faecium		strain: C6076	1352	ASM5049309v1	GCA_050493095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2866509	3151960	2025-05-20	3153	PRJNA1185791	SAMN44726980
+Enterococcus faecium		strain: C6074	1352	ASM5049360v1	GCA_050493605.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2840088	3109656	2025-05-20	3097	PRJNA1185791	SAMN44726979
+Enterococcus faecium		strain: C6070	1352	ASM5049361v1	GCA_050493615.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2839449	3306875	2025-05-20	3308	PRJNA1185791	SAMN44726977
+Enterococcus faecium		strain: C6069	1352	ASM5049414v1	GCA_050494145.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2846630	3296143	2025-05-20	3291	PRJNA1185791	SAMN44726976
+Enterococcus faecium		strain: C6068	1352	ASM5049415v1	GCA_050494155.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2846631	3296366	2025-05-20	3303	PRJNA1185791	SAMN44726975
+Enterococcus faecium		strain: C6105	1352	ASM5049455v1	GCA_050494555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2829553	3089270	2025-05-20	3061	PRJNA1185791	SAMN44726974
+Enterococcus faecium		strain: C6104	1352	ASM5049456v1	GCA_050494565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2974280	3271144	2025-05-20	3302	PRJNA1185791	SAMN44726973
+Enterococcus faecium		strain: C6094	1352	ASM5049508v1	GCA_050495085.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2848475	3201766	2025-05-20	3188	PRJNA1185791	SAMN44726972
+Enterococcus faecium		strain: C6093	1352	ASM5049512v1	GCA_050495125.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2965973	3160031	2025-05-20	3153	PRJNA1185791	SAMN44726971
+Enterococcus faecium		strain: C6091	1352	ASM5049545v1	GCA_050495455.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2848516	3204551	2025-05-20	3199	PRJNA1185791	SAMN44726970
+Enterococcus faecium		strain: C6090	1352	ASM5049546v1	GCA_050495465.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2849484	3300684	2025-05-20	3307	PRJNA1185791	SAMN44726969
+Enterococcus faecium		strain: C6089	1352	ASM5049586v1	GCA_050495865.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2846631	3297831	2025-05-20	3305	PRJNA1185791	SAMN44726968
+Enterococcus faecium		strain: C6073	1352	ASM5049587v1	GCA_050495875.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3040283	3234739	2025-05-20	3239	PRJNA1185791	SAMN44726967
+Enterococcus faecium		strain: C6081	1352	ASM5049598v1	GCA_050495985.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2931245	3238626	2025-05-20	3261	PRJNA1185791	SAMN44726966
+Enterococcus faecium		strain: C6080	1352	ASM5049599v1	GCA_050495995.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3034022	3238782	2025-05-20	3246	PRJNA1185791	SAMN44726965
+Enterococcus faecium		strain: C6067	1352	ASM5049608v1	GCA_050496085.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2850033	3202221	2025-05-20	3195	PRJNA1185791	SAMN44726964
+Enterococcus faecium		strain: C6061	1352	ASM5049609v1	GCA_050496095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2813173	3176771	2025-05-20	3164	PRJNA1185791	SAMN44726963
+Enterococcus faecium		strain: H830	1352	ASM5050298v1	GCA_050502985.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2994566	3309830	2025-05-20	3314	PRJNA1185791	SAMN44727082
+Enterococcus faecium		strain: H829	1352	ASM5050345v1	GCA_050503455.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2994516	3309889	2025-05-20	3316	PRJNA1185791	SAMN44727081
+Enterococcus faecium		strain: H839	1352	ASM5050346v1	GCA_050503465.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2994539	3309909	2025-05-20	3316	PRJNA1185791	SAMN44727080
+Enterococcus faecium		strain: H825	1352	ASM5050401v1	GCA_050504015.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2994514	3251850	2025-05-20	3252	PRJNA1185791	SAMN44727079
+Enterococcus faecium		strain: C5734	1352	ASM5050455v1	GCA_050504555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2921916	3248962	2025-05-20	3280	PRJNA1185791	SAMN44727076
+Enterococcus faecium		strain: C5747	1352	ASM5050456v1	GCA_050504565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2920579	3247625	2025-05-20	3278	PRJNA1185791	SAMN44727077
+Enterococcus faecium		strain: H816	1352	ASM5050511v1	GCA_050505115.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2962145	3034579	2025-05-20	3022	PRJNA1185791	SAMN44727075
+Enterococcus faecium		strain: H821	1352	ASM5050512v1	GCA_050505125.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2949967	3218962	2025-05-20	3237	PRJNA1185791	SAMN44727074
+Enterococcus faecium		strain: H794	1352	ASM5050609v1	GCA_050506095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2842658	3131087	2025-05-20	3122	PRJNA1185791	SAMN44727071
+Enterococcus faecium		strain: H798	1352	ASM5050610v1	GCA_050506105.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2844180	3132628	2025-05-20	3122	PRJNA1185791	SAMN44727070
+Enterococcus faecium		strain: C5724	1352	ASM5050649v1	GCA_050506495.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2744907	3048479	2025-05-20	3025	PRJNA1185791	SAMN44727069
+Enterococcus faecium		strain: C5723	1352	ASM5050650v1	GCA_050506505.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2746261	3055952	2025-05-20	3031	PRJNA1185791	SAMN44727068
+Enterococcus faecium		strain: 16064_1	1352	ASM5050652v1	GCA_050506525.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2741562	3076504	2025-05-21	3015	PRJNA1185791	SAMN44727133
+Enterococcus faecium		strain: 16040_2	1352	ASM5050653v1	GCA_050506535.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2939464	3197804	2025-05-21	3195	PRJNA1185791	SAMN44727132
+Enterococcus faecium		strain: 16040_1	1352	ASM5050654v1	GCA_050506545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2940254	3198597	2025-05-21	3196	PRJNA1185791	SAMN44727131
+Enterococcus faecium		strain: 16011_2	1352	ASM5050655v1	GCA_050506555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2930046	3196776	2025-05-21	3160	PRJNA1185791	SAMN44727130
+Enterococcus faecium		strain: 16011_1	1352	ASM5050656v1	GCA_050506565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2943542	3204110	2025-05-21	3176	PRJNA1185791	SAMN44727129
+Enterococcus faecium		strain: 16071	1352	ASM5050657v1	GCA_050506575.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2660428	2854518	2025-05-21	2805	PRJNA1185791	SAMN44727128
+Enterococcus faecium		strain: 16069	1352	ASM5050658v1	GCA_050506585.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2667303	2667303	2025-05-21	2548	PRJNA1185791	SAMN44727127
+Enterococcus faecium		strain: 16114	1352	ASM5050659v1	GCA_050506595.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2729505	2859149	2025-05-21	2826	PRJNA1185791	SAMN44727126
+Enterococcus faecium		strain: 16111	1352	ASM5050660v1	GCA_050506605.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2764992	2831945	2025-05-21	2782	PRJNA1185791	SAMN44727125
+Enterococcus faecium		strain: 16045	1352	ASM5050661v1	GCA_050506615.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2940047	3233611	2025-05-21	3195	PRJNA1185791	SAMN44727124
+Enterococcus faecium		strain: 16043	1352	ASM5050662v1	GCA_050506625.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2507487	2546048	2025-05-21	2488	PRJNA1185791	SAMN44727123
+Enterococcus faecium		strain: 16019	1352	ASM5050665v1	GCA_050506655.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2835322	3156685	2025-05-21	3123	PRJNA1185791	SAMN44727121
+Enterococcus faecium		strain: C5855	1352	ASM5050670v1	GCA_050506705.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2934868	3228332	2025-05-21	3229	PRJNA1185791	SAMN44727116
+Enterococcus faecium		strain: C5856	1352	ASM5050671v1	GCA_050506715.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2931389	3191239	2025-05-21	3186	PRJNA1185791	SAMN44727115
+Enterococcus faecium		strain: C6408	1352	ASM5050678v1	GCA_050506785.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2917662	3212447	2025-05-21	3189	PRJNA1185791	SAMN44727108
+Enterococcus faecium		strain: C5848	1352	ASM5050689v1	GCA_050506895.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2900696	3213678	2025-05-21	3208	PRJNA1185791	SAMN44727102
+Enterococcus faecium		strain: H537	1352	ASM5051656v1	GCA_050516565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2875952	3145698	2025-05-22	3117	PRJNA1185791	SAMN44727151
+Enterococcus faecium		strain: C5752	1352	ASM5051662v1	GCA_050516625.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2969122	3235262	2025-05-22	3220	PRJNA1185791	SAMN44727149
+Enterococcus faecium		strain: C3481	1352	ASM5051663v1	GCA_050516635.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2833565	3134800	2025-05-22	3106	PRJNA1185791	SAMN44727146
+Enterococcus faecium		strain: 16107_6	1352	ASM5051668v1	GCA_050516685.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2960268	3189684	2025-05-22	3199	PRJNA1185791	SAMN44727140
+Enterococcus faecium		strain: 16107_7	1352	ASM5051669v1	GCA_050516695.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2953605	3176685	2025-05-22	3179	PRJNA1185791	SAMN44727141
+Enterococcus faecium		strain: 16107_4	1352	ASM5051706v1	GCA_050517065.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2954158	3183574	2025-05-22	3191	PRJNA1185791	SAMN44727138
+Enterococcus faecium		strain: 16107_5	1352	ASM5051707v1	GCA_050517075.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2954299	3183286	2025-05-22	3189	PRJNA1185791	SAMN44727139
+Enterococcus faecium		strain: 16107_2	1352	ASM5051709v1	GCA_050517095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2954307	3183723	2025-05-22	3192	PRJNA1185791	SAMN44727136
+Enterococcus faecium		strain: 16064_2	1352	ASM5051732v1	GCA_050517325.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2774602	3129683	2025-05-22	3088	PRJNA1185791	SAMN44727134
+Enterococcus faecium		strain: 16107_1	1352	ASM5051733v1	GCA_050517335.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2952477	3181895	2025-05-22	3189	PRJNA1185791	SAMN44727135
+Enterococcus faecium		strain: H534	1352	ASM5054883v1	GCA_050548835.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2814422	3114993	2025-05-23	3067	PRJNA1185791	SAMN44727152
+Enterococcus faecium		strain: C5751	1352	ASM5054934v1	GCA_050549345.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3040748	3101326	2025-05-23	3045	PRJNA1185791	SAMN44727147
+Enterococcus faecium		strain: 16026	1352	ASM5054935v1	GCA_050549355.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2558572	2653776	2025-05-23	2585	PRJNA1185791	SAMN44727122
+Enterococcus faecium		strain: C2711	1352	ASM5054991v1	GCA_050549915.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2815819	3100763	2025-05-23	3090	PRJNA1185791	SAMN44727090
+Enterococcus faecium		strain: C1439	1352	ASM5055042v1	GCA_050550425.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2757770	3066748	2025-05-23	3044	PRJNA1185791	SAMN44727089
+Enterococcus faecium		strain: C1438	1352	ASM5055045v1	GCA_050550455.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2757782	3064977	2025-05-23	3041	PRJNA1185791	SAMN44727088
+Enterococcus faecium		strain: C0469	1352	ASM5055100v1	GCA_050551005.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2949933	3213211	2025-05-23	3192	PRJNA1185791	SAMN44727087
+Enterococcus faecium		strain: C0468	1352	ASM5055103v1	GCA_050551035.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2934464	3197593	2025-05-23	3173	PRJNA1185791	SAMN44727086
+Enterococcus faecium		strain: C0466	1352	ASM5055154v1	GCA_050551545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2935785	3199046	2025-05-23	3177	PRJNA1185791	SAMN44727085
+Enterococcus faecium		strain: C0394	1352	ASM5055155v1	GCA_050551555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3005555	3080278	2025-05-23	3070	PRJNA1185791	SAMN44727084
+Enterococcus faecium		strain: C0392	1352	ASM5055204v1	GCA_050552045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3003049	3077665	2025-05-23	3072	PRJNA1185791	SAMN44727083
+Enterococcus faecium		strain: C1443	1352	ASM5055209v1	GCA_050552095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2429571	2556379	2025-05-23	2504	PRJNA1185791	SAMN44727040
+Enterococcus faecium		strain: C6072	1352	ASM5055260v1	GCA_050552605.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2839450	3305546	2025-05-23	3309	PRJNA1185791	SAMN44726978
+Enterococcus faecium		strain: 8019	1352	VRE_8019	GCA_050563495.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2802459	3160420	2025-05-25	3134	PRJNA978117	SAMN48541670
+Enterococcus faecium		strain: 5938	1352	RY7206	GCA_050574125.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2861698	3220234	2025-05-27	3215	PRJNA978117	SAMN48528241
+Enterococcus faecium		strain: RY7541	1352	RY7541	GCA_050598045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2815812	3205644	2025-05-28	3192	PRJNA978117	SAMN48668204
+Enterococcus faecium		strain: RY7683	1352	RY7683	GCA_050641865.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2866635	2991825	2025-06-02	2970	PRJNA978117	SAMN48692201
+Enterococcus faecium		strain: VR3	1352	ASM5090891v1	GCA_050908915.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2880035	3214509	2025-06-12	3304	PRJNA1220344	SAMN46716617
+Enterococcus faecium		strain: VR2	1352	ASM5090892v1	GCA_050908925.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2788131	3191134	2025-06-12	3168	PRJNA1220344	SAMN46716616
+Enterococcus faecium		strain: VR5	1352	ASM5090893v1	GCA_050908935.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2875090	3153179	2025-06-12	3150	PRJNA1220344	SAMN46716619
+Enterococcus faecium		strain: VR8	1352	ASM5090894v1	GCA_050908945.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2889914	3129633	2025-06-12	3129	PRJNA1220344	SAMN46716621
+Enterococcus faecium		strain: VR15	1352	ASM5090895v1	GCA_050908955.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2889162	3211026	2025-06-12	3260	PRJNA1220344	SAMN46716623
+Enterococcus faecium		strain: VR23	1352	ASM5090896v1	GCA_050908965.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2886934	3278781	2025-06-12	3327	PRJNA1220344	SAMN46716626
+Enterococcus faecium		strain: VR27	1352	ASM5090897v1	GCA_050908975.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2878827	3201960	2025-06-12	3262	PRJNA1220344	SAMN46716628
+Enterococcus faecium		strain: VR28	1352	ASM5090898v1	GCA_050908985.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2940947	3347303	2025-06-12	3430	PRJNA1220344	SAMN46716629
+Enterococcus faecium		strain: VR40	1352	ASM5090903v1	GCA_050909035.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2882606	3186076	2025-06-12	3241	PRJNA1220344	SAMN46716637
+Enterococcus faecium		strain: VR52	1352	ASM5090904v1	GCA_050909045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2758035	3006193	2025-06-12	2997	PRJNA1220344	SAMN46716641
+Enterococcus faecium		strain: VR64	1352	ASM5090907v1	GCA_050909075.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2850126	3216789	2025-06-12	3226	PRJNA1220344	SAMN46716648
+Enterococcus faecium		strain: VR67	1352	ASM5090908v1	GCA_050909085.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2691786	3108658	2025-06-12	3094	PRJNA1220344	SAMN46716649
+Enterococcus faecium		strain: E1162	1352	ASM5124486v1	GCA_051244865.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2728138	2829168	2025-07-08	2771	PRJNA1279983	SAMN49510496
+Enterococcus faecium		strain: PM1	1352	ASM5152289v1	GCA_051522895.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2520275	2682594	2025-07-24	2655	PRJNA1291100	SAMN49947234
+Enterococcus faecium		strain: VRE_05	1352	ASM5205553v1	GCA_052055535.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2843008	3256011	2025-08-14	3245	PRJNA1230056	SAMN48144074
+Enterococcus faecium		strain: VRE_04	1352	ASM5205554v1	GCA_052055545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2929959	3377889	2025-08-14	3419	PRJNA1230056	SAMN48144073
+Enterococcus faecium		strain: VRE_01	1352	ASM5205557v1	GCA_052055575.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2841631	3202935	2025-08-14	3203	PRJNA1230056	SAMN48144070
+Enterococcus faecium		strain: N21-03014	1352	ASM5216159v1	GCA_052161595.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2826214	3368470	2025-08-20	3410	PRJNA1279082	SAMN49384630
+Enterococcus faecium		strain: RY8678E	1352	ASM5224524v1	GCA_052245245.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2760706	3057021	2025-08-25	3022	PRJNA1048360	SAMN50620807
+Enterococcus faecium		strain: VRED06-10	1352	ASM5282810v1	GCA_052828105.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2814943	3233380	2025-09-24	3231	PRJNA877253	SAMN30692055
+Enterococcus faecium		strain: VRED06-02	1352	ASM5282816v1	GCA_052828165.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2945113	3308448	2025-09-24	3269	PRJNA877253	SAMN30692047
+Enterococcus faecium		strain: VRE37987	1352	ASM5297744v1	GCA_052977445.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2912981	3229115	2025-10-05	3238	PRJNA475751	SAMN38764612
+Enterococcus faecium		strain: VRE38063	1352	ASM5297749v1	GCA_052977495.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2946795	3262051	2025-10-05	3263	PRJNA475751	SAMN38764675
+Enterococcus faecium		strain: VRE37986	1352	ASM5297750v1	GCA_052977505.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2905020	3192587	2025-10-05	3198	PRJNA475751	SAMN38764611
+Enterococcus faecium		strain: VRE37979	1352	ASM5297755v1	GCA_052977555.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2903459	3172706	2025-10-05	3181	PRJNA475751	SAMN38764604
+Enterococcus faecium		strain: VRE38050	1352	ASM5297756v1	GCA_052977565.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2908246	3195548	2025-10-05	3205	PRJNA475751	SAMN38764663
+Enterococcus faecium		strain: VRE38058	1352	ASM5297772v1	GCA_052977725.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2907102	3192988	2025-10-05	3196	PRJNA475751	SAMN38764671
+Enterococcus faecium		strain: Ch-Efm32	1352	ASM5301163v1	GCA_053011635.1	GenBank		Complete Genome	2784832	3245956	2025-10-07		PRJNA1117623	SAMN43771029
+Enterococcus faecium		strain: 1505efm	1352	ASM5304808v1	GCA_053048085.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2774767	3033414	2025-10-11	2987	PRJNA1255384	SAMN48140726
+Enterococcus faecium		strain: 1583efm	1352	ASM5304809v1	GCA_053048095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2774839	3005744	2025-10-11	2953	PRJNA1255385	SAMN48140729
+Enterococcus faecium		strain: AE-126	1352	ASM5305117v1	GCA_053051175.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2545455	2738609	2025-10-12	2749	PRJNA1334388	SAMN51862169
+Enterococcus faecium		strain: VC-22	1352	ASM5306080v1	GCA_053060805.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2449352	2638579	2025-10-14	2545	PRJNA1315005	SAMN51047864
+Enterococcus faecium		strain: Ch-Efm2	1352	ASM5315402v1	GCA_053154025.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2913991	3005258	2025-10-21	2961	PRJNA1117623	SAMN41577101
+Enterococcus faecium		strain: Ch-Efm44	1352	ASM5315404v1	GCA_053154045.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2838113	3162089	2025-10-21	3164	PRJNA1117623	SAMN41577102
+Enterococcus faecium		strain: 520	1352	ASM5332367v1	GCA_053323675.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	2436252	2680379	2025-11-04	2617	PRJNA1354619	SAMN52950330
+Enterococcus faecium		isolate: EFE11651	1352	ASM90004400v1	GCA_900044005.1	GenBank	Annotation submitted by Institute of Biotechnology, Univerity of Helsinki	Complete Genome	2766743	3030420	2016-08-03	3024	PRJEB12401	SAMEA3726428
+Enterococcus faecium		isolate: EFE10021	1352	Enterococcus faecium E1002 isolate	GCA_900066025.1	GenBank	Annotation submitted by Institute of Biotechnology, Univerity of Helsinki	Complete Genome	2614649	2614649	2016-02-02	2487	PRJEB12395	SAMEA3726417
+Enterococcus faecium		isolate: Ef_aus00233	1352	Ef_aus00233	GCA_900092475.1	GenBank		Complete Genome	2888087	3272427	2016-07-22		PRJEB14733	SAMEA4067785
+Enterococcus faecium		isolate: Ef_DMG1500501	1352	Ef_DMG1500501	GCA_900094185.1	GenBank		Complete Genome	2944104	3312025	2016-07-28		PRJEB13012	SAMEA4357170
+Enterococcus faecium		isolate: E0139	1352	E0139_hybrid_assembly	GCA_900634805.1	GenBank		Complete Genome	2458403	2600298	2018-12-19		PRJEB28495	SAMEA4884426
+Enterococcus faecium		isolate: E1334	1352	E1334_hybrid_assembly	GCA_900635365.1	GenBank		Complete Genome	2520984	2678794	2018-12-19		PRJEB28495	SAMEA4884531
+Enterococcus faecium		isolate: E6043	1352	E6043_hybrid_assembly	GCA_900635415.1	GenBank		Complete Genome	2689604	3114005	2018-12-19		PRJEB28495	SAMEA4884790
+Enterococcus faecium		strain: NCTC7174	1352	46582_D01	GCA_900637035.1	GenBank	Annotation submitted by SC	Complete Genome	2450323	2450323	2018-12-20	2389	PRJEB6403	SAMEA4557825
+Enterococcus faecium		isolate: E2079	1352	E2079_hybrid_assembly	GCA_900638765.1	GenBank		Complete Genome	2528228	2528228	2018-12-21		PRJEB28495	SAMEA4884567
+Enterococcus faecium		isolate: E4227	1352	E4227_hybrid_assembly	GCA_900638775.1	GenBank		Complete Genome	2421093	2647036	2018-12-21		PRJEB28495	SAMEA4884646
+Enterococcus faecium		isolate: E1774	1352	E1774_hybrid_assembly	GCA_900638785.1	GenBank		Complete Genome	2678141	2889088	2018-12-21		PRJEB28495	SAMEA4884544
+Enterococcus faecium		isolate: E4413	1352	E4413_hybrid_assembly	GCA_900638795.1	GenBank		Complete Genome	2558812	2751761	2018-12-21		PRJEB28495	SAMEA4884693
+Enterococcus faecium		isolate: E4402	1352	E4402_hybrid_assembly	GCA_900638805.1	GenBank		Complete Genome	2729991	2907269	2018-12-21		PRJEB28495	SAMEA4884683
+Enterococcus faecium		isolate: E0595	1352	E0595_hybrid_assembly	GCA_900638815.1	GenBank		Complete Genome	2447891	2587776	2018-12-21		PRJEB28495	SAMEA4884467
+Enterococcus faecium		isolate: E4438	1352	E4438_hybrid_assembly	GCA_900638825.1	GenBank		Complete Genome	2743333	2970399	2018-12-21		PRJEB28495	SAMEA4884718
+Enterococcus faecium		isolate: E7067	1352	E7067_hybrid_assembly	GCA_900639335.1	GenBank		Complete Genome	2716742	3077407	2019-01-02		PRJEB28495	SAMEA4884945
+Enterococcus faecium		isolate: E6055	1352	E6055_hybrid_assembly	GCA_900639345.1	GenBank		Complete Genome	2709725	3040493	2019-01-02		PRJEB28495	SAMEA4884801
+Enterococcus faecium		isolate: E7025	1352	E7025_hybrid_assembly	GCA_900639355.1	GenBank		Complete Genome	2806840	3149303	2019-01-02		PRJEB28495	SAMEA4884910
+Enterococcus faecium		isolate: E7171	1352	E7171_hybrid_assembly	GCA_900639365.1	GenBank		Complete Genome	2804950	3163961	2019-01-02		PRJEB28495	SAMEA4885012
+Enterococcus faecium		isolate: E7040	1352	E7040_hybrid_assembly	GCA_900639385.1	GenBank		Complete Genome	2677660	3075631	2019-01-02		PRJEB28495	SAMEA4884924
+Enterococcus faecium		isolate: E6975	1352	E6975_hybrid_assembly	GCA_900639395.1	GenBank		Complete Genome	2919744	3292745	2019-01-02		PRJEB28495	SAMEA4884860
+Enterococcus faecium		isolate: E4457	1352	E4457_hybrid_assembly	GCA_900639405.1	GenBank		Complete Genome	2698881	2993087	2019-01-02		PRJEB28495	SAMEA4884735
+Enterococcus faecium		isolate: E6988	1352	E6988_hybrid_assembly	GCA_900639415.1	GenBank		Complete Genome	2725409	3235371	2019-01-02		PRJEB28495	SAMEA4884873
+Enterococcus faecium		isolate: E7098	1352	E7098_hybrid_assembly	GCA_900639425.1	GenBank		Complete Genome	2679986	3121088	2019-01-02		PRJEB28495	SAMEA4884974
+Enterococcus faecium		isolate: E7199	1352	E7199_hybrid_assembly	GCA_900639445.1	GenBank		Complete Genome	2829644	3123104	2019-01-02		PRJEB28495	SAMEA4885040
+Enterococcus faecium		isolate: E7237	1352	E7237_hybrid_assembly	GCA_900639455.1	GenBank		Complete Genome	2701078	2987408	2019-01-02		PRJEB28495	SAMEA4885076
+Enterococcus faecium		isolate: E7429	1352	E7429_hybrid_assembly	GCA_900639465.1	GenBank		Complete Genome	2929158	3290809	2019-01-02		PRJEB28495	SAMEA4885211
+Enterococcus faecium		isolate: E7240	1352	E7240_hybrid_assembly	GCA_900639485.1	GenBank		Complete Genome	2990636	3297240	2019-01-02		PRJEB28495	SAMEA4885079
+Enterococcus faecium		isolate: E7471	1352	E7471_hybrid_assembly	GCA_900639495.1	GenBank		Complete Genome	2882360	3273252	2019-01-02		PRJEB28495	SAMEA4885231
+Enterococcus faecium		isolate: E7356	1352	E7356_hybrid_assembly	GCA_900639505.1	GenBank		Complete Genome	2889514	3226874	2019-01-02		PRJEB28495	SAMEA4885156
+Enterococcus faecium		isolate: E7654	1352	E7654_hybrid_assembly	GCA_900639515.1	GenBank		Complete Genome	2791579	3067803	2019-01-02		PRJEB28495	SAMEA4885352
+Enterococcus faecium		isolate: E7663	1352	E7663_hybrid_assembly	GCA_900639525.1	GenBank		Complete Genome	2751961	3032958	2019-01-02		PRJEB28495	SAMEA4885360
+Enterococcus faecium		isolate: E8202	1352	E8202_hybrid_assembly	GCA_900639535.1	GenBank		Complete Genome	3014357	3276455	2019-01-02		PRJEB28495	SAMEA4885631
+Enterococcus faecium		isolate: E7933	1352	E7933_hybrid_assembly	GCA_900639545.1	GenBank		Complete Genome	2926852	3330955	2019-01-02		PRJEB28495	SAMEA4885473
+Enterococcus faecium		isolate: E8172	1352	E8172_hybrid_assembly	GCA_900639555.1	GenBank		Complete Genome	2682742	2986036	2019-01-02		PRJEB28495	SAMEA4885602
+Enterococcus faecium		isolate: E8195	1352	E8195_hybrid_assembly	GCA_900639565.1	GenBank		Complete Genome	2833517	3118526	2019-01-02		PRJEB28495	SAMEA4885624
+Enterococcus faecium		isolate: E8014	1352	E8014_hybrid_assembly	GCA_900639575.1	GenBank		Complete Genome	2864834	3167723	2019-01-02		PRJEB28495	SAMEA4885529
+Enterococcus faecium		isolate: E7948	1352	E7948_hybrid_assembly	GCA_900639585.1	GenBank		Complete Genome	2648040	3019941	2019-01-02		PRJEB28495	SAMEA4885488
+Enterococcus faecium		isolate: E8377	1352	E8377_hybrid_assembly	GCA_900639595.1	GenBank		Complete Genome	2926259	3253190	2019-01-02		PRJEB28495	SAMEA4885755
+Enterococcus faecium		isolate: E8290	1352	E8290_hybrid_assembly	GCA_900639605.1	GenBank		Complete Genome	2894948	3221879	2019-01-02		PRJEB28495	SAMEA4885694
+Enterococcus faecium		isolate: E8328	1352	E8328_hybrid_assembly	GCA_900639615.1	GenBank		Complete Genome	2926309	3180125	2019-01-02		PRJEB28495	SAMEA4885722
+Enterococcus faecium		isolate: E8284	1352	E8284_hybrid_assembly	GCA_900639625.1	GenBank		Complete Genome	2923480	3242574	2019-01-02		PRJEB28495	SAMEA4885688
+Enterococcus faecium		isolate: E8927	1352	E8927_hybrid_assembly	GCA_900639635.1	GenBank		Complete Genome	2581067	2837008	2019-01-02		PRJEB28495	SAMEA4885924
+Enterococcus faecium		isolate: E8440	1352	E8440_hybrid_assembly	GCA_900639645.1	GenBank		Complete Genome	2945939	3276685	2019-01-02		PRJEB28495	SAMEA4885812
+Enterococcus faecium		isolate: E8691	1352	E8691_hybrid_assembly	GCA_900639655.1	GenBank		Complete Genome	2640062	2828288	2019-01-02		PRJEB28495	SAMEA4885878
+Enterococcus faecium		isolate: E7114	1352	E7114_hybrid_assembly	GCA_900639665.1	GenBank		Complete Genome	2854725	3279508	2019-01-02		PRJEB28495	SAMEA4884989
+Enterococcus faecium		isolate: E9101	1352	E9101_hybrid_assembly	GCA_900639705.1	GenBank		Complete Genome	2432228	2432228	2019-01-02		PRJEB28495	SAMEA4885972
+Enterococcus faecium		isolate: E8414	1352	E8414_hybrid_assembly	GCA_900639715.1	GenBank		Complete Genome	3004008	3440588	2019-01-02		PRJEB28495	SAMEA4885787
+Enterococcus faecium		isolate: E8423	1352	E8423_hybrid_assembly	GCA_900639725.1	GenBank		Complete Genome	2697636	2998296	2019-01-02		PRJEB28495	SAMEA4885795
+Enterococcus faecium		isolate: E4456	1352	E4456_hybrid_assembly	GCA_900639745.1	GenBank		Complete Genome	2640999	2930673	2019-01-02		PRJEB28495	SAMEA4884734
+Enterococcus faecium		isolate: E4239	1352	E4239_hybrid_assembly	GCA_900640265.1	GenBank		Complete Genome	2416266	2638214	2019-01-03		PRJEB28495	SAMEA4884658
+Enterococcus faecium		strain: 3012STDY6244127	1352	42042_G02	GCA_900683475.1	GenBank	Annotation submitted by SC	Complete Genome	2545110	2545110	2019-02-19	2465	PRJEB6403	SAMEA3614259
+Enterococcus faecium		isolate: AUS2001, strain: AUS2001	1352	AUS2001	GCA_907163255.1	GenBank		Complete Genome	2828906	3096160	2021-07-30		PRJEB42923	SAMEA8520472
+Enterococcus faecium		isolate: AUS2002, strain: AUS2002	1352	AUS2002	GCA_907163315.1	GenBank		Complete Genome	2972427	3241449	2021-07-30		PRJEB42923	SAMEA8520473
+Enterococcus faecium		isolate: USZ_VRE32_P32	1352	USZ_VRE32_P32_hybrid_assembly	GCA_907165365.1	GenBank		Complete Genome	2886360	3297824	2021-05-17		PRJEB44616	SAMEA8659956
+Enterococcus faecium		isolate: USZ_VRE5_P5	1352	USZ_VRE5_P5_hybrid_assembly	GCA_907176135.1	GenBank		Complete Genome	2876766	3156640	2021-05-17		PRJEB44616	SAMEA8659929
+Enterococcus faecium		isolate: USZ_VRE67_P60	1352	USZ_VRE67_P60_hybrid_assembly	GCA_907176815.1	GenBank		Complete Genome	2893311	3173120	2021-05-17		PRJEB44616	SAMEA8659991
+Enterococcus faecium		isolate: USZ_VRE53_P46	1352	USZ_VRE53_P46_hybrid_assembly	GCA_907177285.1	GenBank		Complete Genome	2896894	3281836	2021-05-17		PRJEB44616	SAMEA8659977
+Enterococcus faecium		isolate: GPT24-06	1352	GPT24-06	GCA_965641755.1	GenBank		Complete Genome	2777239	2995648	2025-07-09		PRJEB86006	SAMEA117852477
